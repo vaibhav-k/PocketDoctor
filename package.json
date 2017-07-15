@@ -1,0 +1,24 @@
+{
+  "name": "pocketdoctor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-vaibhav/PocketDoctor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-vaibhav/PocketDoctor/issues"
+  },
+  "homepage": "https://github.com/k-vaibhav/PocketDoctor#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "dotenv-extended": "^2.0.1",
+    "restify": "^5.0.0"
+  }
+}
