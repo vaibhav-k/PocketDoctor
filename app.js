@@ -5,6 +5,8 @@ require('dotenv-extended').load();
 //require dialogs
 const dialog = {
     greet: require('./app/dialogs/greet'),
+    fixAppointment: require('./app/dialogs/fixAppointment'),
+    diagnoseSymptoms: require('./app/dialogs/diagnoseSymptoms')
 };
 
 // Create chat connector for communicating with the Bot Framework Service
@@ -26,9 +28,13 @@ var intents = new builder.IntentDialog({
 });
 
 intents.matches('greet', '/greet');
+intents.matches('fixAppointment', '/fixAppointment')
+intents.matches('diagnoseSymptoms', '/diagnoseSymptoms')
 
 bot.dialog('/', intents);
 dialog.greet(bot);
+dialog.fixAppointment(bot);
+dialog.diagnoseSymptoms(bot);
 
 bot.dialog('/confused', [
     function (session, args, next) {
