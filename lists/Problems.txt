@@ -1,1 +1,2 @@
 Json files are not proper -> insert commas wherever necessary
+List for diagnosis not yet uploaded
