@@ -69,5 +69,5 @@ if __name__ == '__main__':
     _printRawOutput = config.pritnRawOutput
     _token = _loadToken(username, password, authUrl)
     lines = read_in()
-    diagnosis = loadDiagnosis(lines, Gender.Male, 1988, _token, language, healthUrl)
+    diagnosis = loadDiagnosis(lines, Gender.Female, 1988, _token, language, healthUrl)
     print diagnosis
