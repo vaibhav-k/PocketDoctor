@@ -11,9 +11,9 @@ Gender = Enum('Gender', 'Male Female')
 SelectorStatus = Enum('SelectorStatus', 'Man Woman Boy Girl')
 
 def read_in():
-    #lines = sys.stdin.readlines()
-    lines = raw_input()
-    return json.loads(lines)
+    lines = sys.stdin.readlines()
+    #lines = raw_input()
+    return json.loads(lines[0])
 
 def _loadToken(username, password, url):
     rawHashString = hmac.new(bytes(password), url.encode('utf-8')).digest()
@@ -69,5 +69,5 @@ if __name__ == '__main__':
     _printRawOutput = config.pritnRawOutput
     _token = _loadToken(username, password, authUrl)
     lines = read_in()
-    diagnosis = loadDiagnosis(lines, Gender.Female, 1988, _token, language, healthUrl)
+    diagnosis = loadDiagnosis(lines, Gender.Male, 1988, _token, language, healthUrl)
     print diagnosis
