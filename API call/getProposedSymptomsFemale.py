@@ -41,10 +41,7 @@ def _loadFromWebService(action, _token, language, healthUrl):
     try:
         response.raise_for_status()
     except requests.exceptions.HTTPError as e:
-        print ("----------------------------------")
-        print ("HTTPError: " + e.response.text )
-        print ("----------------------------------")
-        raise
+        return
 
     try:
         dataJson = response.json()
