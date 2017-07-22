@@ -1,6 +1,7 @@
 Added getIssues.py
 Give input as one integer
 
+Input for now is just an int - example: 10
 
 getIssues gives more information about disease
 Example output for issue 104 - 
