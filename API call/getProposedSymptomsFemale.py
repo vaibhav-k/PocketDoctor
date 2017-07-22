@@ -12,7 +12,6 @@ SelectorStatus = Enum('SelectorStatus', 'Man Woman Boy Girl')
 
 def read_in():
     lines = sys.stdin.readlines()
-    #lines = raw_input()
     return json.loads(lines[0])
 
 def _loadToken(username, password, url):
@@ -51,10 +50,15 @@ def _loadFromWebService(action, _token, language, healthUrl):
     data = json.loads(response.text)
     return data
 
-def loadDiagnosis(selectedSymptoms, gender, yearOfBirth, _token, language, healthUrl):
-    serializedSymptoms = json.dumps(str(selectedSymptoms))
-    action = "symptoms/proposed?symptoms=[{0}]&gender={1}&year_of_birth={2}".format(serializedSymptoms, gender.name, yearOfBirth)
-    return json.dumps(_loadFromWebService(action, _token, language, healthUrl))
+def loadPSymtoms(selectedSymptoms, gender, yearOfBirth, _token, language, healthUrl):
+    ret = []
+    for ss in selectedSymptoms:
+        serializedSymptoms = json.dumps(ss)
+        action = "symptoms/proposed?symptoms=[{0}]&gender={1}&year_of_birth={2}".format(serializedSymptoms, gender.name, yearOfBirth)
+        data = _loadFromWebService(action, _token, language, healthUrl)
+        if data:    
+            ret.append(json.dumps(data))
+        return json.dumps(ret)
 
 #start process
 if __name__ == '__main__':
@@ -66,5 +70,5 @@ if __name__ == '__main__':
     _printRawOutput = config.pritnRawOutput
     _token = _loadToken(username, password, authUrl)
     lines = read_in()
-    diagnosis = loadDiagnosis(lines, Gender.Female, 1988, _token, language, healthUrl)
-    print diagnosis
+    symptoms = loadPSymtoms(lines, Gender.Female, 1988, _token, language, healthUrl)
+    print symptoms
