@@ -1,6 +1,8 @@
 Added getIssues.py
 Give input as one integer
-Gives more information about disease
+
+
+getIssues gives more information about disease
 Example output for issue 104 - 
 {
 	"DescriptionShort": "Headaches are very common.  Often pain is due to another illness and the cause of the pain is notexactly known.  Examples include tension headaches, migraines, cluster headaches, and headaches associated with medication.",
@@ -12,3 +14,148 @@ Example output for issue 104 -
 	"TreatmentDescription": "Because the cause of primary headaches is unknown, treatment tends to be aimed at alleviating the headache with painkillers.  Therapy with oxygen is advisable for cluster headaches.  Generally, known triggers for headaches should be avoided or diminished with medication.",
 	"Name": "Headache"
 }
+
+getDiagnosis gives diagnosis of disease
+Example output for disease 10 - 
+[{
+	"Specialisation": [{
+		"SpecialistID": 0,
+		"ID": 15,
+		"Name": "General practice"
+	}],
+	"Issue": {
+		"Ranking": 1,
+		"Name": "Bloated belly",
+		"Icd": "R14",
+		"IcdName": "Flatulence and related conditions",
+		"ProfName": "Meteorism",
+		"ID": 495,
+		"Accuracy": 90
+	}
+}, {
+	"Specialisation": [{
+		"SpecialistID": 0,
+		"ID": 14,
+		"Name": "Gastroenterology"
+	}, {
+		"SpecialistID": 0,
+		"ID": 15,
+		"Name": "General practice"
+	}, {
+		"SpecialistID": 0,
+		"ID": 19,
+		"Name": "Internal medicine"
+	}],
+	"Issue": {
+		"Ranking": 2,
+		"Name": "Constipation",
+		"Icd": "K59.0",
+		"IcdName": "Constipation",
+		"ProfName": "Obstipation",
+		"ID": 53,
+		"Accuracy": 45
+	}
+}, {
+	"Specialisation": [{
+		"SpecialistID": 0,
+		"ID": 15,
+		"Name": "General practice"
+	}, {
+		"SpecialistID": 0,
+		"ID": 19,
+		"Name": "Internal medicine"
+	}],
+	"Issue": {
+		"Ranking": 3,
+		"Name": "Food poisoning",
+		"Icd": "A05;A02;A03;A04",
+		"IcdName": "Other bacterial foodborne intoxications, not elsewhere classified;Other salmonella infections;Shigellosis;Other bacterial intestinal infections",
+		"ProfName": "Foodborne illness",
+		"ID": 281,
+		"Accuracy": 33.75
+	}
+}, {
+	"Specialisation": [{
+		"SpecialistID": 0,
+		"ID": 14,
+		"Name": "Gastroenterology"
+	}, {
+		"SpecialistID": 0,
+		"ID": 15,
+		"Name": "General practice"
+	}, {
+		"SpecialistID": 0,
+		"ID": 19,
+		"Name": "Internal medicine"
+	}],
+	"Issue": {
+		"Ranking": 4,
+		"Name": "Loose watery stools",
+		"Icd": "A09;K59.1;K52.9",
+		"IcdName": "Other gastroenteritis and colitis of infectious and unspecified origin;Functional diarrhoea;Noninfective gastroenteritis and colitis, unspecified",
+		"ProfName": "Diarrhea",
+		"ID": 51,
+		"Accuracy": 22.5
+	}
+}, {
+	"Specialisation": [{
+		"SpecialistID": 0,
+		"ID": 15,
+		"Name": "General practice"
+	}, {
+		"SpecialistID": 0,
+		"ID": 42,
+		"Name": "Urology"
+	}],
+	"Issue": {
+		"Ranking": 5,
+		"Name": "Kidney stones",
+		"Icd": "N20",
+		"IcdName": "Calculus of kidney and ureter",
+		"ProfName": "Nephrolith",
+		"ID": 324,
+		"Accuracy": 9.99
+	}
+}, {
+	"Specialisation": [{
+		"SpecialistID": 0,
+		"ID": 15,
+		"Name": "General practice"
+	}, {
+		"SpecialistID": 0,
+		"ID": 18,
+		"Name": "Gynecology"
+	}, {
+		"SpecialistID": 0,
+		"ID": 19,
+		"Name": "Internal medicine"
+	}],
+	"Issue": {
+		"Ranking": 6,
+		"Name": "Urinary tract infection",
+		"Icd": "N39.0",
+		"IcdName": "Urinary tract infection, site not specified",
+		"ProfName": "Cystitis",
+		"ID": 59,
+		"Accuracy": 9.28125
+	}
+}, {
+	"Specialisation": [{
+		"SpecialistID": 0,
+		"ID": 15,
+		"Name": "General practice"
+	}, {
+		"SpecialistID": 0,
+		"ID": 39,
+		"Name": "Surgery"
+	}],
+	"Issue": {
+		"Ranking": 7,
+		"Name": "Hernia",
+		"Icd": "K40;K41;K42;K43;K44;K45;K46",
+		"IcdName": "Inguinal hernia;Femoral hernia;Umbilical hernia;Ventral hernia;Diaphragmatic hernia;Other abdominal hernia;Unspecified abdominal hernia",
+		"ProfName": "Abdominal hernia",
+		"ID": 130,
+		"Accuracy": 9.1125
+	}
+}]
