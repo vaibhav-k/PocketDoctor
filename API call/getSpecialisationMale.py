@@ -54,7 +54,7 @@ def _loadFromWebService(action, _token, language, healthUrl):
     data = json.loads(response.text)
     return data
 
-def loadDiagnosis(selectedSymptoms, gender, yearOfBirth, _token, language, healthUrl):
+def loadSpecialisations(selectedSymptoms, gender, yearOfBirth, _token, language, healthUrl):
     serializedSymptoms = json.dumps(str(selectedSymptoms))
     action = "diagnosis?symptoms=[{0}]&gender={1}&year_of_birth={2}".format(serializedSymptoms, gender.name, yearOfBirth)
     return json.dumps(_loadFromWebService(action, _token, language, healthUrl))
@@ -69,5 +69,5 @@ if __name__ == '__main__':
     _printRawOutput = config.pritnRawOutput
     _token = _loadToken(username, password, authUrl)
     lines = read_in()
-    diagnosis = loadDiagnosis(lines, Gender.Male, 1988, _token, language, healthUrl)
-    print diagnosis
+    spec = loadSpecialisations(lines, Gender.Male, 1988, _token, language, healthUrl)
+    print spec
