@@ -6,10 +6,6 @@ import config
 import sys
 from enum import Enum
 
-Gender = Enum('Gender', 'Male Female')
-
-SelectorStatus = Enum('SelectorStatus', 'Man Woman Boy Girl')
-
 def read_in():
     lines = sys.stdin.readlines()
     #lines = raw_input()
