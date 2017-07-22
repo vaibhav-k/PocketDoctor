@@ -1,0 +1,818 @@
+[
+	{
+		"Man": {
+			"36": [{
+				"HasRedFlag": false,
+				"Name": "Abdominal pain",
+				"HealthSymptomLocationIDs": [16, 36],
+				"Synonyms": [" Stomach ache"],
+				"ProfName": "",
+				"ID": 10
+			}, {
+				"HasRedFlag": false,
+				"Name": "Nausea",
+				"HealthSymptomLocationIDs": [6, 22, 15, 31, 16, 36, 17, 47],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 44
+			}, {
+				"HasRedFlag": false,
+				"Name": "Heartburn",
+				"HealthSymptomLocationIDs": [6, 24, 15, 31, 16, 36],
+				"Synonyms": ["Pyrosis"],
+				"ProfName": "",
+				"ID": 45
+			}, {
+				"HasRedFlag": false,
+				"Name": "Reduced appetite",
+				"HealthSymptomLocationIDs": [6, 25, 17, 47, 36],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 54
+			}, {
+				"HasRedFlag": false,
+				"Name": "Early satiety",
+				"HealthSymptomLocationIDs": [16, 36],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 92
+			}, {
+				"HasRedFlag": false,
+				"Name": "Vomiting",
+				"HealthSymptomLocationIDs": [6, 25, 16, 36],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 101
+			}, {
+				"HasRedFlag": false,
+				"Name": "Fast, deepened breathing",
+				"HealthSymptomLocationIDs": [6, 24, 25, 15, 31, 16, 36],
+				"Synonyms": ["Fast breathing", "Hyperventilation"],
+				"ProfName": "",
+				"ID": 153
+			}, {
+				"HasRedFlag": false,
+				"Name": "Stomach burning",
+				"HealthSymptomLocationIDs": [16, 36],
+				"Synonyms": ["Burning abdominal pain", "Burning stomach ache"],
+				"ProfName": "",
+				"ID": 179
+			}, {
+				"HasRedFlag": true,
+				"Name": "Vomiting blood",
+				"HealthSymptomLocationIDs": [6, 25, 16, 36],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 181
+			}]
+		}
+	}, {
+		"Man": {
+			"40": []
+		}
+	}, {
+		"Man": {
+			"38": []
+		}
+	}, {
+		"Man": {
+			"39": []
+		}
+	}, {
+		"Man": {
+			"37": []
+		}
+	}, {
+		"Man": {
+			"48": [{
+				"HasRedFlag": false,
+				"Name": "Pain in the limbs",
+				"HealthSymptomLocationIDs": [7, 48, 10, 49, 17, 47],
+				"Synonyms": ["Body aches", "Ache all over", "Diffuse muscle aches", "Aching limbs", "Pain in the extremities"],
+				"ProfName": "",
+				"ID": 12
+			}, {
+				"HasRedFlag": false,
+				"Name": "Paralysis",
+				"HealthSymptomLocationIDs": [17, 47, 10, 7, 49, 48],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 140
+			}, {
+				"HasRedFlag": false,
+				"Name": "Swollen glands in the armpits",
+				"HealthSymptomLocationIDs": [7, 48, 15, 32],
+				"Synonyms": ["Swollen lymph nodes in the armpits", "Enlarged lymph nodes in the armpits", "Enlarged glands in the armpits"],
+				"ProfName": "",
+				"ID": 248
+			}]
+		}
+	}, {
+		"Man": {
+			"30": []
+		}
+	}, {
+		"Man": {
+			"28": []
+		}
+	}, {
+		"Man": {
+			"29": [{
+				"HasRedFlag": false,
+				"Name": "Tremor at rest",
+				"HealthSymptomLocationIDs": [7, 29, 10, 44, 17, 47],
+				"Synonyms": ["Tremble at rest"],
+				"ProfName": "",
+				"ID": 115
+			}]
+		}
+	}, {
+		"Man": {
+			"26": []
+		}
+	}, {
+		"Man": {
+			"33": [{
+				"HasRedFlag": false,
+				"Name": "Back pain",
+				"HealthSymptomLocationIDs": [15, 33],
+				"Synonyms": ["Pain in back", "Dorsalgia", "Backache"],
+				"ProfName": "",
+				"ID": 104
+			}]
+		}
+	}, {
+		"Man": {
+			"31": [{
+				"HasRedFlag": false,
+				"Name": "Cough",
+				"HealthSymptomLocationIDs": [6, 24, 25, 15, 31],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 15
+			}, {
+				"HasRedFlag": true,
+				"Name": "Chest pain",
+				"HealthSymptomLocationIDs": [15, 31],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 17
+			}, {
+				"HasRedFlag": true,
+				"Name": "Shortness of breath",
+				"HealthSymptomLocationIDs": [15, 31],
+				"Synonyms": ["Dyspnea", "Breathlessness"],
+				"ProfName": "",
+				"ID": 29
+			}, {
+				"HasRedFlag": false,
+				"Name": "Wheezing",
+				"HealthSymptomLocationIDs": [6, 24, 15, 31],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 30
+			}, {
+				"HasRedFlag": true,
+				"Name": "Chest tightness",
+				"HealthSymptomLocationIDs": [15, 31],
+				"Synonyms": ["Tightness in chest", "Oppressive feeling in the chest"],
+				"ProfName": "",
+				"ID": 31
+			}, {
+				"HasRedFlag": false,
+				"Name": "Palpitations",
+				"HealthSymptomLocationIDs": [15, 31],
+				"Synonyms": ["Palpitations"],
+				"ProfName": "",
+				"ID": 37
+			}, {
+				"HasRedFlag": false,
+				"Name": "Nausea",
+				"HealthSymptomLocationIDs": [6, 22, 15, 31, 16, 36, 17, 47],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 44
+			}, {
+				"HasRedFlag": false,
+				"Name": "Heartburn",
+				"HealthSymptomLocationIDs": [6, 24, 15, 31, 16, 36],
+				"Synonyms": ["Pyrosis"],
+				"ProfName": "",
+				"ID": 45
+			}, {
+				"HasRedFlag": false,
+				"Name": "Sputum",
+				"HealthSymptomLocationIDs": [15, 6, 31, 25],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 64
+			}, {
+				"HasRedFlag": false,
+				"Name": "Night cough",
+				"HealthSymptomLocationIDs": [6, 24, 25, 15, 31],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 133
+			}, {
+				"HasRedFlag": false,
+				"Name": "Fast, deepened breathing",
+				"HealthSymptomLocationIDs": [6, 24, 25, 15, 31, 16, 36],
+				"Synonyms": ["Fast breathing", "Hyperventilation"],
+				"ProfName": "",
+				"ID": 153
+			}]
+		}
+	}, {
+		"Man": {
+			"32": [{
+				"HasRedFlag": false,
+				"Name": "Swollen glands in the armpits",
+				"HealthSymptomLocationIDs": [7, 48, 15, 32],
+				"Synonyms": ["Swollen lymph nodes in the armpits", "Enlarged lymph nodes in the armpits", "Enlarged glands in the armpits"],
+				"ProfName": "",
+				"ID": 248
+			}]
+		}
+	}, {
+		"Man": {
+			"35": []
+		}
+	}, {
+		"Man": {
+			"34": []
+		}
+	}, {
+		"Man": {
+			"23": [{
+				"HasRedFlag": false,
+				"Name": "Eye redness",
+				"HealthSymptomLocationIDs": [6, 23],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 33
+			}, {
+				"HasRedFlag": true,
+				"Name": "Going black before the eyes",
+				"HealthSymptomLocationIDs": [6, 22, 23],
+				"Synonyms": ["Blackout", "Fainting", "Faint"],
+				"ProfName": "",
+				"ID": 57
+			}, {
+				"HasRedFlag": false,
+				"Name": "Itching eyes",
+				"HealthSymptomLocationIDs": [6, 23],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 73
+			}, {
+				"HasRedFlag": false,
+				"Name": "Burning eyes",
+				"HealthSymptomLocationIDs": [6, 23],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 75
+			}, {
+				"HasRedFlag": false,
+				"Name": "Feeling of foreign body in the eye",
+				"HealthSymptomLocationIDs": [6, 23],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 76
+			}, {
+				"HasRedFlag": false,
+				"Name": "Cheek swelling",
+				"HealthSymptomLocationIDs": [6, 23],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 170
+			}, {
+				"HasRedFlag": false,
+				"Name": "Tears",
+				"HealthSymptomLocationIDs": [6, 23],
+				"Synonyms": ["Lacrimation", "Tearing", "Lachrymation", "Secretion of tears", "Tear flow", "Epiphora"],
+				"ProfName": "",
+				"ID": 211
+			}, {
+				"HasRedFlag": false,
+				"Name": "Drooping eyelid",
+				"HealthSymptomLocationIDs": [22, 6, 23],
+				"Synonyms": ["Ptosis"],
+				"ProfName": "",
+				"ID": 244
+			}, {
+				"HasRedFlag": false,
+				"Name": "Dry eyes",
+				"HealthSymptomLocationIDs": [6, 23],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 273
+			}, {
+				"HasRedFlag": true,
+				"Name": "Eye pain",
+				"HealthSymptomLocationIDs": [6, 23],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 287
+			}]
+		}
+	}, {
+		"Man": {
+			"22": [{
+				"HasRedFlag": false,
+				"Name": "Headache",
+				"HealthSymptomLocationIDs": [6, 22],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 9
+			}, {
+				"HasRedFlag": false,
+				"Name": "Fever",
+				"HealthSymptomLocationIDs": [17, 47, 6, 22],
+				"Synonyms": ["Temperature"],
+				"ProfName": "",
+				"ID": 11
+			}, {
+				"HasRedFlag": false,
+				"Name": "Tiredness",
+				"HealthSymptomLocationIDs": [17, 47, 6, 22],
+				"Synonyms": ["Feeling of weakness", "Fatigue", "Weakness"],
+				"ProfName": "",
+				"ID": 16
+			}, {
+				"HasRedFlag": false,
+				"Name": "Nausea",
+				"HealthSymptomLocationIDs": [6, 22, 15, 31, 16, 36, 17, 47],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 44
+			}, {
+				"HasRedFlag": false,
+				"Name": "Sleeplessness",
+				"HealthSymptomLocationIDs": [6, 22, 17, 47],
+				"Synonyms": ["Insomnia"],
+				"ProfName": "",
+				"ID": 52
+			}, {
+				"HasRedFlag": false,
+				"Name": "weakness",
+				"HealthSymptomLocationIDs": [47, 17, 6, 22],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 56
+			}, {
+				"HasRedFlag": true,
+				"Name": "Going black before the eyes",
+				"HealthSymptomLocationIDs": [6, 22, 23],
+				"Synonyms": ["Blackout", "Fainting", "Faint"],
+				"ProfName": "",
+				"ID": 57
+			}, {
+				"HasRedFlag": false,
+				"Name": "Nervousness",
+				"HealthSymptomLocationIDs": [6, 22, 17, 47],
+				"Synonyms": ["Stress", "Feeling of tension"],
+				"ProfName": "",
+				"ID": 114
+			}, {
+				"HasRedFlag": true,
+				"Name": "Unconsciousness, short",
+				"HealthSymptomLocationIDs": [6, 22, 17, 47],
+				"Synonyms": ["Shock", "Short unconsciousness", "Syncope"],
+				"ProfName": "",
+				"ID": 144
+			}, {
+				"HasRedFlag": true,
+				"Name": "Dizziness",
+				"HealthSymptomLocationIDs": [6, 22, 17, 47],
+				"Synonyms": ["Vertigo"],
+				"ProfName": "",
+				"ID": 207
+			}, {
+				"HasRedFlag": false,
+				"Name": "Memory gap",
+				"HealthSymptomLocationIDs": [22],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 235
+			}, {
+				"HasRedFlag": false,
+				"Name": "Drooping eyelid",
+				"HealthSymptomLocationIDs": [22, 6, 23],
+				"Synonyms": ["Ptosis"],
+				"ProfName": "",
+				"ID": 244
+			}]
+		}
+	}, {
+		"Man": {
+			"21": []
+		}
+	}, {
+		"Man": {
+			"25": [{
+				"HasRedFlag": false,
+				"Name": "Cough",
+				"HealthSymptomLocationIDs": [6, 24, 25, 15, 31],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 15
+			}, {
+				"HasRedFlag": false,
+				"Name": "Lip swelling",
+				"HealthSymptomLocationIDs": [6, 25],
+				"Synonyms": ["Angiooedema", "Angioedema", "Quincke's edema"],
+				"ProfName": "",
+				"ID": 35
+			}, {
+				"HasRedFlag": false,
+				"Name": "Increased thirst",
+				"HealthSymptomLocationIDs": [6, 24, 25],
+				"Synonyms": ["Polydipsia", "Chronic thirst"],
+				"ProfName": "",
+				"ID": 40
+			}, {
+				"HasRedFlag": false,
+				"Name": "Reduced appetite",
+				"HealthSymptomLocationIDs": [6, 25, 17, 47, 36],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 54
+			}, {
+				"HasRedFlag": false,
+				"Name": "Sputum",
+				"HealthSymptomLocationIDs": [15, 6, 31, 25],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 64
+			}, {
+				"HasRedFlag": false,
+				"Name": "Vomiting",
+				"HealthSymptomLocationIDs": [6, 25, 16, 36],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 101
+			}, {
+				"HasRedFlag": false,
+				"Name": "Hiccups",
+				"HealthSymptomLocationIDs": [6, 24, 25],
+				"Synonyms": ["Singultus"],
+				"ProfName": "",
+				"ID": 122
+			}, {
+				"HasRedFlag": false,
+				"Name": "Night cough",
+				"HealthSymptomLocationIDs": [6, 24, 25, 15, 31],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 133
+			}, {
+				"HasRedFlag": false,
+				"Name": "Fast, deepened breathing",
+				"HealthSymptomLocationIDs": [6, 24, 25, 15, 31, 16, 36],
+				"Synonyms": ["Fast breathing", "Hyperventilation"],
+				"ProfName": "",
+				"ID": 153
+			}, {
+				"HasRedFlag": true,
+				"Name": "Vomiting blood",
+				"HealthSymptomLocationIDs": [6, 25, 16, 36],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 181
+			}, {
+				"HasRedFlag": false,
+				"Name": "Pain on swallowing",
+				"HealthSymptomLocationIDs": [6, 24, 25],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 203
+			}]
+		}
+	}, {
+		"Man": {
+			"24": [{
+				"HasRedFlag": false,
+				"Name": "Sore throat",
+				"HealthSymptomLocationIDs": [6, 24],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 13
+			}, {
+				"HasRedFlag": false,
+				"Name": "Runny nose",
+				"HealthSymptomLocationIDs": [6, 24],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 14
+			}, {
+				"HasRedFlag": false,
+				"Name": "Cough",
+				"HealthSymptomLocationIDs": [6, 24, 25, 15, 31],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 15
+			}, {
+				"HasRedFlag": false,
+				"Name": "Stuffy nose",
+				"HealthSymptomLocationIDs": [6, 24],
+				"Synonyms": ["Blocked nose", "Nasal congestion"],
+				"ProfName": "",
+				"ID": 28
+			}, {
+				"HasRedFlag": false,
+				"Name": "Wheezing",
+				"HealthSymptomLocationIDs": [6, 24, 15, 31],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 30
+			}, {
+				"HasRedFlag": false,
+				"Name": "Increased thirst",
+				"HealthSymptomLocationIDs": [6, 24, 25],
+				"Synonyms": ["Polydipsia", "Chronic thirst"],
+				"ProfName": "",
+				"ID": 40
+			}, {
+				"HasRedFlag": false,
+				"Name": "Heartburn",
+				"HealthSymptomLocationIDs": [6, 24, 15, 31, 16, 36],
+				"Synonyms": ["Pyrosis"],
+				"ProfName": "",
+				"ID": 45
+			}, {
+				"HasRedFlag": false,
+				"Name": "Burning in the throat",
+				"HealthSymptomLocationIDs": [6, 24],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 46
+			}, {
+				"HasRedFlag": false,
+				"Name": "Earache",
+				"HealthSymptomLocationIDs": [6, 24],
+				"Synonyms": ["Otalgia", "Ear pain", "Pain in the ear"],
+				"ProfName": "",
+				"ID": 87
+			}, {
+				"HasRedFlag": false,
+				"Name": "Sneezing",
+				"HealthSymptomLocationIDs": [6, 24],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 95
+			}, {
+				"HasRedFlag": false,
+				"Name": "Itching in the nose",
+				"HealthSymptomLocationIDs": [6, 24],
+				"Synonyms": ["Itch in the nose", "Pruritus"],
+				"ProfName": "",
+				"ID": 96
+			}, {
+				"HasRedFlag": false,
+				"Name": "Hiccups",
+				"HealthSymptomLocationIDs": [6, 24, 25],
+				"Synonyms": ["Singultus"],
+				"ProfName": "",
+				"ID": 122
+			}, {
+				"HasRedFlag": false,
+				"Name": "Night cough",
+				"HealthSymptomLocationIDs": [6, 24, 25, 15, 31],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 133
+			}, {
+				"HasRedFlag": false,
+				"Name": "Neck pain",
+				"HealthSymptomLocationIDs": [6, 24],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 136
+			}, {
+				"HasRedFlag": false,
+				"Name": "Fast, deepened breathing",
+				"HealthSymptomLocationIDs": [6, 24, 25, 15, 31, 16, 36],
+				"Synonyms": ["Fast breathing", "Hyperventilation"],
+				"ProfName": "",
+				"ID": 153
+			}, {
+				"HasRedFlag": false,
+				"Name": "Swollen glands on the neck",
+				"HealthSymptomLocationIDs": [6, 24],
+				"Synonyms": ["Swollen lymph nodes on the neck", "Enlarged lymph nodes on the neck", "Enlarged glands on the neck"],
+				"ProfName": "",
+				"ID": 169
+			}, {
+				"HasRedFlag": false,
+				"Name": "Pain on swallowing",
+				"HealthSymptomLocationIDs": [6, 24, 25],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 203
+			}]
+		}
+	}, {
+		"Man": {
+			"44": [{
+				"HasRedFlag": false,
+				"Name": "Tremor at rest",
+				"HealthSymptomLocationIDs": [7, 29, 10, 44, 17, 47],
+				"Synonyms": ["Tremble at rest"],
+				"ProfName": "",
+				"ID": 115
+			}]
+		}
+	}, {
+		"Man": {
+			"49": [{
+				"HasRedFlag": false,
+				"Name": "Pain in the limbs",
+				"HealthSymptomLocationIDs": [7, 48, 10, 49, 17, 47],
+				"Synonyms": ["Body aches", "Ache all over", "Diffuse muscle aches", "Aching limbs", "Pain in the extremities"],
+				"ProfName": "",
+				"ID": 12
+			}, {
+				"HasRedFlag": false,
+				"Name": "Paralysis",
+				"HealthSymptomLocationIDs": [17, 47, 10, 7, 49, 48],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 140
+			}]
+		}
+	}, {
+		"Man": {
+			"43": []
+		}
+	}, {
+		"Man": {
+			"41": []
+		}
+	}, {
+		"Man": {
+			"45": []
+		}
+	}, {
+		"Man": {
+			"47": [{
+				"HasRedFlag": false,
+				"Name": "Fever",
+				"HealthSymptomLocationIDs": [17, 47, 6, 22],
+				"Synonyms": ["Temperature"],
+				"ProfName": "",
+				"ID": 11
+			}, {
+				"HasRedFlag": false,
+				"Name": "Pain in the limbs",
+				"HealthSymptomLocationIDs": [7, 48, 10, 49, 17, 47],
+				"Synonyms": ["Body aches", "Ache all over", "Diffuse muscle aches", "Aching limbs", "Pain in the extremities"],
+				"ProfName": "",
+				"ID": 12
+			}, {
+				"HasRedFlag": false,
+				"Name": "Tiredness",
+				"HealthSymptomLocationIDs": [17, 47, 6, 22],
+				"Synonyms": ["Feeling of weakness", "Fatigue", "Weakness"],
+				"ProfName": "",
+				"ID": 16
+			}, {
+				"HasRedFlag": false,
+				"Name": "Weight gain",
+				"HealthSymptomLocationIDs": [17, 47],
+				"Synonyms": ["Increase in weight"],
+				"ProfName": "",
+				"ID": 23
+			}, {
+				"HasRedFlag": false,
+				"Name": "Nausea",
+				"HealthSymptomLocationIDs": [6, 22, 15, 31, 16, 36, 17, 47],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 44
+			}, {
+				"HasRedFlag": false,
+				"Name": "Sleeplessness",
+				"HealthSymptomLocationIDs": [6, 22, 17, 47],
+				"Synonyms": ["Insomnia"],
+				"ProfName": "",
+				"ID": 52
+			}, {
+				"HasRedFlag": false,
+				"Name": "Reduced appetite",
+				"HealthSymptomLocationIDs": [6, 25, 17, 47, 36],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 54
+			}, {
+				"HasRedFlag": false,
+				"Name": "weakness",
+				"HealthSymptomLocationIDs": [47, 17, 6, 22],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 56
+			}, {
+				"HasRedFlag": false,
+				"Name": "Nervousness",
+				"HealthSymptomLocationIDs": [6, 22, 17, 47],
+				"Synonyms": ["Stress", "Feeling of tension"],
+				"ProfName": "",
+				"ID": 114
+			}, {
+				"HasRedFlag": false,
+				"Name": "Tremor at rest",
+				"HealthSymptomLocationIDs": [7, 29, 10, 44, 17, 47],
+				"Synonyms": ["Tremble at rest"],
+				"ProfName": "",
+				"ID": 115
+			}, {
+				"HasRedFlag": false,
+				"Name": "Sweating",
+				"HealthSymptomLocationIDs": [46, 47],
+				"Synonyms": ["Perspiration"],
+				"ProfName": "",
+				"ID": 138
+			}, {
+				"HasRedFlag": false,
+				"Name": "Cold sweats",
+				"HealthSymptomLocationIDs": [46, 47],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 139
+			}, {
+				"HasRedFlag": false,
+				"Name": "Paralysis",
+				"HealthSymptomLocationIDs": [17, 47, 10, 7, 49, 48],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 140
+			}, {
+				"HasRedFlag": true,
+				"Name": "Unconsciousness, short",
+				"HealthSymptomLocationIDs": [6, 22, 17, 47],
+				"Synonyms": ["Shock", "Short unconsciousness", "Syncope"],
+				"ProfName": "",
+				"ID": 144
+			}, {
+				"HasRedFlag": false,
+				"Name": "Hot flushes",
+				"HealthSymptomLocationIDs": [17, 46, 47],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 149
+			}, {
+				"HasRedFlag": false,
+				"Name": "Chills",
+				"HealthSymptomLocationIDs": [17, 47],
+				"Synonyms": ["Shivering fit", "Ague", "Shivering", "Shivering attack"],
+				"ProfName": "",
+				"ID": 175
+			}, {
+				"HasRedFlag": true,
+				"Name": "Dizziness",
+				"HealthSymptomLocationIDs": [6, 22, 17, 47],
+				"Synonyms": ["Vertigo"],
+				"ProfName": "",
+				"ID": 207
+			}, {
+				"HasRedFlag": false,
+				"Name": "Anxiety",
+				"HealthSymptomLocationIDs": [47],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 238
+			}]
+		}
+	}, {
+		"Man": {
+			"46": [{
+				"HasRedFlag": false,
+				"Name": "Skin rash",
+				"HealthSymptomLocationIDs": [17, 46],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 124
+			}, {
+				"HasRedFlag": false,
+				"Name": "Sweating",
+				"HealthSymptomLocationIDs": [46, 47],
+				"Synonyms": ["Perspiration"],
+				"ProfName": "",
+				"ID": 138
+			}, {
+				"HasRedFlag": false,
+				"Name": "Cold sweats",
+				"HealthSymptomLocationIDs": [46, 47],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 139
+			}, {
+				"HasRedFlag": false,
+				"Name": "Hot flushes",
+				"HealthSymptomLocationIDs": [17, 46, 47],
+				"Synonyms": [],
+				"ProfName": "",
+				"ID": 149
+			}]
+		}
+	}
+]

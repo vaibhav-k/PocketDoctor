@@ -1,0 +1,6020 @@
+[{
+	"Female": {
+		"10": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Bloated belly",
+				"Icd": "R14",
+				"IcdName": "Flatulence and related conditions",
+				"ProfName": "Meteorism",
+				"ID": 495,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Constipation",
+				"Icd": "K59.0",
+				"IcdName": "Constipation",
+				"ProfName": "Obstipation",
+				"ID": 53,
+				"Accuracy": 45
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Food poisoning",
+				"Icd": "A05;A02;A03;A04",
+				"IcdName": "Other bacterial foodborne intoxications, not elsewhere classified;Other salmonella infections;Shigellosis;Other bacterial intestinal infections",
+				"ProfName": "Foodborne illness",
+				"ID": 281,
+				"Accuracy": 33.75
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Loose watery stools",
+				"Icd": "A09;K59.1;K52.9",
+				"IcdName": "Other gastroenteritis and colitis of infectious and unspecified origin;Functional diarrhoea;Noninfective gastroenteritis and colitis, unspecified",
+				"ProfName": "Diarrhea",
+				"ID": 51,
+				"Accuracy": 22.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 18,
+				"Name": "Gynecology"
+			}],
+			"Issue": {
+				"Ranking": 5,
+				"Name": "Menstrual cramps",
+				"Icd": "N94.4;N94.5;N94.6",
+				"IcdName": "Primary dysmenorrhoea;Secondary dysmenorrhoea;Dysmenorrhoea, unspecified",
+				"ProfName": "Dysmenorrhoea",
+				"ID": 489,
+				"Accuracy": 22.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 42,
+				"Name": "Urology"
+			}],
+			"Issue": {
+				"Ranking": 6,
+				"Name": "Kidney stones",
+				"Icd": "N20",
+				"IcdName": "Calculus of kidney and ureter",
+				"ProfName": "Nephrolith",
+				"ID": 324,
+				"Accuracy": 9.99
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 18,
+				"Name": "Gynecology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 7,
+				"Name": "Urinary tract infection",
+				"Icd": "N39.0",
+				"IcdName": "Urinary tract infection, site not specified",
+				"ProfName": "Cystitis",
+				"ID": 59,
+				"Accuracy": 9.28125
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 39,
+				"Name": "Surgery"
+			}],
+			"Issue": {
+				"Ranking": 8,
+				"Name": "Hernia",
+				"Icd": "K40;K41;K42;K43;K44;K45;K46",
+				"IcdName": "Inguinal hernia;Femoral hernia;Umbilical hernia;Ventral hernia;Diaphragmatic hernia;Other abdominal hernia;Unspecified abdominal hernia",
+				"ProfName": "Abdominal hernia",
+				"ID": 130,
+				"Accuracy": 9.1125
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 18,
+				"Name": "Gynecology"
+			}],
+			"Issue": {
+				"Ranking": 9,
+				"Name": "Tubal and ovarian inflammation",
+				"Icd": "N70;N70.0;N70.1",
+				"IcdName": "Salpingitis and oophoritis;Acute salpingitis and oophoritis;Chronic salpingitis and oophoritis",
+				"ProfName": "Pelvic inflammatory disease",
+				"ID": 497,
+				"Accuracy": 9
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"44": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Food poisoning",
+				"Icd": "A05;A02;A03;A04",
+				"IcdName": "Other bacterial foodborne intoxications, not elsewhere classified;Other salmonella infections;Shigellosis;Other bacterial intestinal infections",
+				"ProfName": "Foodborne illness",
+				"ID": 281,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 27,
+				"Name": "Neurology"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Sick headache",
+				"Icd": "G43",
+				"IcdName": "Migraine",
+				"ProfName": "Migraine",
+				"ID": 67,
+				"Accuracy": 89.1
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 18,
+				"Name": "Gynecology"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Pregnancy",
+				"Icd": "Z33",
+				"IcdName": "Pregnant state, incidental",
+				"ProfName": "Gravidity",
+				"ID": 446,
+				"Accuracy": 36
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Smoking",
+				"Icd": "F17;Z72.0",
+				"IcdName": "Mental and behavioural disorders due to use of tobacco;Tobacco use",
+				"ProfName": "Tobacco smoking",
+				"ID": 19,
+				"Accuracy": 27
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 5,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 26.982
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 6,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 22.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 27,
+				"Name": "Neurology"
+			}],
+			"Issue": {
+				"Ranking": 7,
+				"Name": "Headache",
+				"Icd": "G44;R51",
+				"IcdName": "Other headache syndromes;Headache",
+				"ProfName": "Cephalalgia",
+				"ID": 104,
+				"Accuracy": 18
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"45": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Reflux disease",
+				"Icd": "K21",
+				"IcdName": "Gastro-oesophageal reflux disease",
+				"ProfName": "Gastroesophageal reflux disease",
+				"ID": 18,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 27
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Coronary heart disease",
+				"Icd": "I20;I21;I22;I23;I24;I25",
+				"IcdName": "Angina pectoris;Acute myocardial infarction;Subsequent myocardial infarction;Certain current complications following acute myocardial infarction;Other acute ischaemic heart diseases;Chronic ischaemic heart disease",
+				"ProfName": "Coronary artery disease",
+				"ID": 86,
+				"Accuracy": 10.8
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Food poisoning",
+				"Icd": "A05;A02;A03;A04",
+				"IcdName": "Other bacterial foodborne intoxications, not elsewhere classified;Other salmonella infections;Shigellosis;Other bacterial intestinal infections",
+				"ProfName": "Foodborne illness",
+				"ID": 281,
+				"Accuracy": 9
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"54": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Depression",
+				"Icd": "F31;F32;F33;F34",
+				"IcdName": "Bipolar affective disorder;Depressive episode;Recurrent depressive disorder;Persistent mood [affective] disorders",
+				"ProfName": "Major depressive disorder",
+				"ID": 47,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 61.363636
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 30.6613617
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"92": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Reflux disease",
+				"Icd": "K21",
+				"IcdName": "Gastro-oesophageal reflux disease",
+				"ProfName": "Gastroesophageal reflux disease",
+				"ID": 18,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Constipation",
+				"Icd": "K59.0",
+				"IcdName": "Constipation",
+				"ProfName": "Obstipation",
+				"ID": 53,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"101": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Food poisoning",
+				"Icd": "A05;A02;A03;A04",
+				"IcdName": "Other bacterial foodborne intoxications, not elsewhere classified;Other salmonella infections;Shigellosis;Other bacterial intestinal infections",
+				"ProfName": "Foodborne illness",
+				"ID": 281,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 27,
+				"Name": "Neurology"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Sick headache",
+				"Icd": "G43",
+				"IcdName": "Migraine",
+				"ProfName": "Migraine",
+				"ID": 67,
+				"Accuracy": 43.2
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"153": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Acute inflammation of lung",
+				"Icd": "J12;J13;J14;J15;J16;J17;J18;P23",
+				"IcdName": "Viral pneumonia, not elsewhere classified;Pneumonia due to Streptococcus pneumoniae;Pneumonia due to Haemophilus influenzae;Bacterial pneumonia, not elsewhere classified;Pneumonia due to other infectious organisms, not elsewhere classified;Pneumonia in diseases classified elsewhere;Pneumonia, organism unspecified;Congenital pneumonia",
+				"ProfName": "Pneumonia",
+				"ID": 113,
+				"Accuracy": 67.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Obstruction of a pulmonary artery",
+				"Icd": "I26",
+				"IcdName": "Pulmonary embolism",
+				"ProfName": "Pulmonary embolism",
+				"ID": 167,
+				"Accuracy": 26.25
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"179": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Reflux disease",
+				"Icd": "K21",
+				"IcdName": "Gastro-oesophageal reflux disease",
+				"ProfName": "Gastroesophageal reflux disease",
+				"ID": 18,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 67.5
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"181": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Reflux disease",
+				"Icd": "K21",
+				"IcdName": "Gastro-oesophageal reflux disease",
+				"ProfName": "Gastroesophageal reflux disease",
+				"ID": 18,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Stomach bleeding",
+				"Icd": "K92.2",
+				"IcdName": "Gastrointestinal haemorrhage, unspecified",
+				"ProfName": "Gastrointestinal bleeding",
+				"ID": 476,
+				"Accuracy": 60
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 15
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"112": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 18,
+				"Name": "Gynecology"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Pregnancy",
+				"Icd": "Z33",
+				"IcdName": "Pregnant state, incidental",
+				"ProfName": "Gravidity",
+				"ID": 446,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"123": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 18,
+				"Name": "Gynecology"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Pregnancy",
+				"Icd": "Z33",
+				"IcdName": "Pregnant state, incidental",
+				"ProfName": "Gravidity",
+				"ID": 446,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"12": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 67.5
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"140": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 11,
+				"Name": "Dermatology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Lyme disease",
+				"Icd": "A69.2",
+				"IcdName": "Lyme disease",
+				"ProfName": "Lyme borreliosis",
+				"ID": 79,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"248": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Kissing disease",
+				"Icd": "B27",
+				"IcdName": "Infectious mononucleosis",
+				"ProfName": "Infectious mononucleosis",
+				"ID": 109,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"115": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 76.49999
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"104": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 31,
+				"Name": "Orthopedics"
+			}, {
+				"SpecialistID": 0,
+				"ID": 41,
+				"Name": "Rheumatology"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Slipped disc",
+				"Icd": "M51.2",
+				"IcdName": "Other specified intervertebral disc displacement",
+				"ProfName": "Disc herniation",
+				"ID": 103,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Strain of the back muscles",
+				"Icd": "T09.2;M54.5;S39.9",
+				"IcdName": "Dislocation, sprain and strain of unspecified joint and ligament of trunk;Low back pain;Unspecified injury of abdomen, lower back and pelvis",
+				"ProfName": "Muscle tightness in back",
+				"ID": 488,
+				"Accuracy": 72
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 18,
+				"Name": "Gynecology"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Menstrual cramps",
+				"Icd": "N94.4;N94.5;N94.6",
+				"IcdName": "Primary dysmenorrhoea;Secondary dysmenorrhoea;Dysmenorrhoea, unspecified",
+				"ProfName": "Dysmenorrhoea",
+				"ID": 489,
+				"Accuracy": 36
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 42,
+				"Name": "Urology"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Kidney stones",
+				"Icd": "N20",
+				"IcdName": "Calculus of kidney and ureter",
+				"ProfName": "Nephrolith",
+				"ID": 324,
+				"Accuracy": 13.32
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"15": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 63.2390633
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Reflux disease",
+				"Icd": "K21",
+				"IcdName": "Gastro-oesophageal reflux disease",
+				"ProfName": "Gastroesophageal reflux disease",
+				"ID": 18,
+				"Accuracy": 56.25
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Acute inflammation of lung",
+				"Icd": "J12;J13;J14;J15;J16;J17;J18;P23",
+				"IcdName": "Viral pneumonia, not elsewhere classified;Pneumonia due to Streptococcus pneumoniae;Pneumonia due to Haemophilus influenzae;Bacterial pneumonia, not elsewhere classified;Pneumonia due to other infectious organisms, not elsewhere classified;Pneumonia in diseases classified elsewhere;Pneumonia, organism unspecified;Congenital pneumonia",
+				"ProfName": "Pneumonia",
+				"ID": 113,
+				"Accuracy": 52.734375
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 5,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 50.625
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 6,
+				"Name": "Smoking",
+				"Icd": "F17;Z72.0",
+				"IcdName": "Mental and behavioural disorders due to use of tobacco;Tobacco use",
+				"ProfName": "Tobacco smoking",
+				"ID": 19,
+				"Accuracy": 37.96875
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 32,
+				"Name": "Otolaryngology"
+			}],
+			"Issue": {
+				"Ranking": 7,
+				"Name": "Inflammation of the nose and throat",
+				"Icd": "J02;J31.2",
+				"IcdName": "Acute pharyngitis;Chronic pharyngitis",
+				"ProfName": "Nasopharyngitis",
+				"ID": 44,
+				"Accuracy": 14.0625
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 8,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 11.25
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"17": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Reflux disease",
+				"Icd": "K21",
+				"IcdName": "Gastro-oesophageal reflux disease",
+				"ProfName": "Gastroesophageal reflux disease",
+				"ID": 18,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Coronary heart disease",
+				"Icd": "I20;I21;I22;I23;I24;I25",
+				"IcdName": "Angina pectoris;Acute myocardial infarction;Subsequent myocardial infarction;Certain current complications following acute myocardial infarction;Other acute ischaemic heart diseases;Chronic ischaemic heart disease",
+				"ProfName": "Coronary artery disease",
+				"ID": 86,
+				"Accuracy": 72
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Heart attack",
+				"Icd": "I21;I22",
+				"IcdName": "Acute myocardial infarction;Subsequent myocardial infarction",
+				"ProfName": "Myocardial infarction",
+				"ID": 87,
+				"Accuracy": 24
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 22.2
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 5,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 18
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 6,
+				"Name": "Obstruction of a pulmonary artery",
+				"Icd": "I26",
+				"IcdName": "Pulmonary embolism",
+				"ProfName": "Pulmonary embolism",
+				"ID": 167,
+				"Accuracy": 12
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"29": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Acute inflammation of lung",
+				"Icd": "J12;J13;J14;J15;J16;J17;J18;P23",
+				"IcdName": "Viral pneumonia, not elsewhere classified;Pneumonia due to Streptococcus pneumoniae;Pneumonia due to Haemophilus influenzae;Bacterial pneumonia, not elsewhere classified;Pneumonia due to other infectious organisms, not elsewhere classified;Pneumonia in diseases classified elsewhere;Pneumonia, organism unspecified;Congenital pneumonia",
+				"ProfName": "Pneumonia",
+				"ID": 113,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 44.9699974
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Obstruction of a pulmonary artery",
+				"Icd": "I26",
+				"IcdName": "Pulmonary embolism",
+				"ProfName": "Pulmonary embolism",
+				"ID": 167,
+				"Accuracy": 43.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 5,
+				"Name": "Coronary heart disease",
+				"Icd": "I20;I21;I22;I23;I24;I25",
+				"IcdName": "Angina pectoris;Acute myocardial infarction;Subsequent myocardial infarction;Certain current complications following acute myocardial infarction;Other acute ischaemic heart diseases;Chronic ischaemic heart disease",
+				"ProfName": "Coronary artery disease",
+				"ID": 86,
+				"Accuracy": 19.2
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"30": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"31": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Coronary heart disease",
+				"Icd": "I20;I21;I22;I23;I24;I25",
+				"IcdName": "Angina pectoris;Acute myocardial infarction;Subsequent myocardial infarction;Certain current complications following acute myocardial infarction;Other acute ischaemic heart diseases;Chronic ischaemic heart disease",
+				"ProfName": "Coronary artery disease",
+				"ID": 86,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Heart attack",
+				"Icd": "I21;I22",
+				"IcdName": "Acute myocardial infarction;Subsequent myocardial infarction",
+				"ProfName": "Myocardial infarction",
+				"ID": 87,
+				"Accuracy": 45
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 45
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Obstruction of a pulmonary artery",
+				"Icd": "I26",
+				"IcdName": "Pulmonary embolism",
+				"ProfName": "Pulmonary embolism",
+				"ID": 167,
+				"Accuracy": 9
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"37": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Heart racing",
+				"Icd": "R00.2",
+				"IcdName": "Palpitations",
+				"ProfName": "Palpitations",
+				"ID": 434,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 20.454546
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 11.25
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"44": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Food poisoning",
+				"Icd": "A05;A02;A03;A04",
+				"IcdName": "Other bacterial foodborne intoxications, not elsewhere classified;Other salmonella infections;Shigellosis;Other bacterial intestinal infections",
+				"ProfName": "Foodborne illness",
+				"ID": 281,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 27,
+				"Name": "Neurology"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Sick headache",
+				"Icd": "G43",
+				"IcdName": "Migraine",
+				"ProfName": "Migraine",
+				"ID": 67,
+				"Accuracy": 89.1
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 18,
+				"Name": "Gynecology"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Pregnancy",
+				"Icd": "Z33",
+				"IcdName": "Pregnant state, incidental",
+				"ProfName": "Gravidity",
+				"ID": 446,
+				"Accuracy": 36
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Smoking",
+				"Icd": "F17;Z72.0",
+				"IcdName": "Mental and behavioural disorders due to use of tobacco;Tobacco use",
+				"ProfName": "Tobacco smoking",
+				"ID": 19,
+				"Accuracy": 27
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 5,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 26.982
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 6,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 22.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 27,
+				"Name": "Neurology"
+			}],
+			"Issue": {
+				"Ranking": 7,
+				"Name": "Headache",
+				"Icd": "G44;R51",
+				"IcdName": "Other headache syndromes;Headache",
+				"ProfName": "Cephalalgia",
+				"ID": 104,
+				"Accuracy": 18
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"45": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Reflux disease",
+				"Icd": "K21",
+				"IcdName": "Gastro-oesophageal reflux disease",
+				"ProfName": "Gastroesophageal reflux disease",
+				"ID": 18,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 27
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Coronary heart disease",
+				"Icd": "I20;I21;I22;I23;I24;I25",
+				"IcdName": "Angina pectoris;Acute myocardial infarction;Subsequent myocardial infarction;Certain current complications following acute myocardial infarction;Other acute ischaemic heart diseases;Chronic ischaemic heart disease",
+				"ProfName": "Coronary artery disease",
+				"ID": 86,
+				"Accuracy": 10.8
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Food poisoning",
+				"Icd": "A05;A02;A03;A04",
+				"IcdName": "Other bacterial foodborne intoxications, not elsewhere classified;Other salmonella infections;Shigellosis;Other bacterial intestinal infections",
+				"ProfName": "Foodborne illness",
+				"ID": 281,
+				"Accuracy": 9
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"64": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Smoking",
+				"Icd": "F17;Z72.0",
+				"IcdName": "Mental and behavioural disorders due to use of tobacco;Tobacco use",
+				"ProfName": "Tobacco smoking",
+				"ID": 19,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 75
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 73.125
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Acute inflammation of lung",
+				"Icd": "J12;J13;J14;J15;J16;J17;J18;P23",
+				"IcdName": "Viral pneumonia, not elsewhere classified;Pneumonia due to Streptococcus pneumoniae;Pneumonia due to Haemophilus influenzae;Bacterial pneumonia, not elsewhere classified;Pneumonia due to other infectious organisms, not elsewhere classified;Pneumonia in diseases classified elsewhere;Pneumonia, organism unspecified;Congenital pneumonia",
+				"ProfName": "Pneumonia",
+				"ID": 113,
+				"Accuracy": 56.25
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"133": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"153": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Acute inflammation of lung",
+				"Icd": "J12;J13;J14;J15;J16;J17;J18;P23",
+				"IcdName": "Viral pneumonia, not elsewhere classified;Pneumonia due to Streptococcus pneumoniae;Pneumonia due to Haemophilus influenzae;Bacterial pneumonia, not elsewhere classified;Pneumonia due to other infectious organisms, not elsewhere classified;Pneumonia in diseases classified elsewhere;Pneumonia, organism unspecified;Congenital pneumonia",
+				"ProfName": "Pneumonia",
+				"ID": 113,
+				"Accuracy": 67.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Obstruction of a pulmonary artery",
+				"Icd": "I26",
+				"IcdName": "Pulmonary embolism",
+				"ProfName": "Pulmonary embolism",
+				"ID": 167,
+				"Accuracy": 26.25
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"248": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Kissing disease",
+				"Icd": "B27",
+				"IcdName": "Infectious mononucleosis",
+				"ProfName": "Infectious mononucleosis",
+				"ID": 109,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"33": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 89.99999
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"57": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Coronary heart disease",
+				"Icd": "I20;I21;I22;I23;I24;I25",
+				"IcdName": "Angina pectoris;Acute myocardial infarction;Subsequent myocardial infarction;Certain current complications following acute myocardial infarction;Other acute ischaemic heart diseases;Chronic ischaemic heart disease",
+				"ProfName": "Coronary artery disease",
+				"ID": 86,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Heart attack",
+				"Icd": "I21;I22",
+				"IcdName": "Acute myocardial infarction;Subsequent myocardial infarction",
+				"ProfName": "Myocardial infarction",
+				"ID": 87,
+				"Accuracy": 67.49999
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Obstruction of a pulmonary artery",
+				"Icd": "I26",
+				"IcdName": "Pulmonary embolism",
+				"ProfName": "Pulmonary embolism",
+				"ID": 167,
+				"Accuracy": 28.125
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"73": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 89.99999
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 42.8857346
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"75": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 89.99999
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 42.8857346
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"76": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 89.99999
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"170": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"211": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"244": []
+	}
+}, {
+	"Female": {
+		"273": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"287": []
+	}
+}, {
+	"Female": {
+		"9": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 27,
+				"Name": "Neurology"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Headache",
+				"Icd": "G44;R51",
+				"IcdName": "Other headache syndromes;Headache",
+				"ProfName": "Cephalalgia",
+				"ID": 104,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 27,
+				"Name": "Neurology"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Sick headache",
+				"Icd": "G43",
+				"IcdName": "Migraine",
+				"ProfName": "Migraine",
+				"ID": 67,
+				"Accuracy": 83.07692
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 41.53846
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 27.6923084
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"11": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 67.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Acute inflammation of lung",
+				"Icd": "J12;J13;J14;J15;J16;J17;J18;P23",
+				"IcdName": "Viral pneumonia, not elsewhere classified;Pneumonia due to Streptococcus pneumoniae;Pneumonia due to Haemophilus influenzae;Bacterial pneumonia, not elsewhere classified;Pneumonia due to other infectious organisms, not elsewhere classified;Pneumonia in diseases classified elsewhere;Pneumonia, organism unspecified;Congenital pneumonia",
+				"ProfName": "Pneumonia",
+				"ID": 113,
+				"Accuracy": 51.9230766
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 32,
+				"Name": "Otolaryngology"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Inflammation of the nose and throat",
+				"Icd": "J02;J31.2",
+				"IcdName": "Acute pharyngitis;Chronic pharyngitis",
+				"ProfName": "Nasopharyngitis",
+				"ID": 44,
+				"Accuracy": 12.1153851
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 5,
+				"Name": "Kissing disease",
+				"Icd": "B27",
+				"IcdName": "Infectious mononucleosis",
+				"ProfName": "Infectious mononucleosis",
+				"ID": 109,
+				"Accuracy": 9.692307
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"16": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Depression",
+				"Icd": "F31;F32;F33;F34",
+				"IcdName": "Bipolar affective disorder;Depressive episode;Recurrent depressive disorder;Persistent mood [affective] disorders",
+				"ProfName": "Major depressive disorder",
+				"ID": 47,
+				"Accuracy": 72
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 67.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 67.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 5,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 67.4549942
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 6,
+				"Name": "Kissing disease",
+				"Icd": "B27",
+				"IcdName": "Infectious mononucleosis",
+				"ProfName": "Infectious mononucleosis",
+				"ID": 109,
+				"Accuracy": 21.5999985
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}, {
+				"SpecialistID": 0,
+				"ID": 41,
+				"Name": "Rheumatology"
+			}],
+			"Issue": {
+				"Ranking": 7,
+				"Name": "Chronic tiredness syndrome",
+				"Icd": "G93.3",
+				"IcdName": "Postviral fatigue syndrome",
+				"ProfName": "Chronic fatigue syndrome",
+				"ID": 211,
+				"Accuracy": 20.25
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"44": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Food poisoning",
+				"Icd": "A05;A02;A03;A04",
+				"IcdName": "Other bacterial foodborne intoxications, not elsewhere classified;Other salmonella infections;Shigellosis;Other bacterial intestinal infections",
+				"ProfName": "Foodborne illness",
+				"ID": 281,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 27,
+				"Name": "Neurology"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Sick headache",
+				"Icd": "G43",
+				"IcdName": "Migraine",
+				"ProfName": "Migraine",
+				"ID": 67,
+				"Accuracy": 89.1
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 18,
+				"Name": "Gynecology"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Pregnancy",
+				"Icd": "Z33",
+				"IcdName": "Pregnant state, incidental",
+				"ProfName": "Gravidity",
+				"ID": 446,
+				"Accuracy": 36
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Smoking",
+				"Icd": "F17;Z72.0",
+				"IcdName": "Mental and behavioural disorders due to use of tobacco;Tobacco use",
+				"ProfName": "Tobacco smoking",
+				"ID": 19,
+				"Accuracy": 27
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 5,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 26.982
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 6,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 22.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 27,
+				"Name": "Neurology"
+			}],
+			"Issue": {
+				"Ranking": 7,
+				"Name": "Headache",
+				"Icd": "G44;R51",
+				"IcdName": "Other headache syndromes;Headache",
+				"ProfName": "Cephalalgia",
+				"ID": 104,
+				"Accuracy": 18
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"52": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Depression",
+				"Icd": "F31;F32;F33;F34",
+				"IcdName": "Bipolar affective disorder;Depressive episode;Recurrent depressive disorder;Persistent mood [affective] disorders",
+				"ProfName": "Major depressive disorder",
+				"ID": 47,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Smoking",
+				"Icd": "F17;Z72.0",
+				"IcdName": "Mental and behavioural disorders due to use of tobacco;Tobacco use",
+				"ProfName": "Tobacco smoking",
+				"ID": 19,
+				"Accuracy": 11.25
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"56": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"57": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Coronary heart disease",
+				"Icd": "I20;I21;I22;I23;I24;I25",
+				"IcdName": "Angina pectoris;Acute myocardial infarction;Subsequent myocardial infarction;Certain current complications following acute myocardial infarction;Other acute ischaemic heart diseases;Chronic ischaemic heart disease",
+				"ProfName": "Coronary artery disease",
+				"ID": 86,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Heart attack",
+				"Icd": "I21;I22",
+				"IcdName": "Acute myocardial infarction;Subsequent myocardial infarction",
+				"ProfName": "Myocardial infarction",
+				"ID": 87,
+				"Accuracy": 67.49999
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Obstruction of a pulmonary artery",
+				"Icd": "I26",
+				"IcdName": "Pulmonary embolism",
+				"ProfName": "Pulmonary embolism",
+				"ID": 167,
+				"Accuracy": 28.125
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"114": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"144": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Coronary heart disease",
+				"Icd": "I20;I21;I22;I23;I24;I25",
+				"IcdName": "Angina pectoris;Acute myocardial infarction;Subsequent myocardial infarction;Certain current complications following acute myocardial infarction;Other acute ischaemic heart diseases;Chronic ischaemic heart disease",
+				"ProfName": "Coronary artery disease",
+				"ID": 86,
+				"Accuracy": 48.03202
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Heart attack",
+				"Icd": "I21;I22",
+				"IcdName": "Acute myocardial infarction;Subsequent myocardial infarction",
+				"ProfName": "Myocardial infarction",
+				"ID": 87,
+				"Accuracy": 36.0240135
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Obstruction of a pulmonary artery",
+				"Icd": "I26",
+				"IcdName": "Pulmonary embolism",
+				"ProfName": "Pulmonary embolism",
+				"ID": 167,
+				"Accuracy": 36.0240135
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"207": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"235": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 78
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"244": []
+	}
+}, {
+	"Female": {
+		"15": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 63.2390633
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Reflux disease",
+				"Icd": "K21",
+				"IcdName": "Gastro-oesophageal reflux disease",
+				"ProfName": "Gastroesophageal reflux disease",
+				"ID": 18,
+				"Accuracy": 56.25
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Acute inflammation of lung",
+				"Icd": "J12;J13;J14;J15;J16;J17;J18;P23",
+				"IcdName": "Viral pneumonia, not elsewhere classified;Pneumonia due to Streptococcus pneumoniae;Pneumonia due to Haemophilus influenzae;Bacterial pneumonia, not elsewhere classified;Pneumonia due to other infectious organisms, not elsewhere classified;Pneumonia in diseases classified elsewhere;Pneumonia, organism unspecified;Congenital pneumonia",
+				"ProfName": "Pneumonia",
+				"ID": 113,
+				"Accuracy": 52.734375
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 5,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 50.625
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 6,
+				"Name": "Smoking",
+				"Icd": "F17;Z72.0",
+				"IcdName": "Mental and behavioural disorders due to use of tobacco;Tobacco use",
+				"ProfName": "Tobacco smoking",
+				"ID": 19,
+				"Accuracy": 37.96875
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 32,
+				"Name": "Otolaryngology"
+			}],
+			"Issue": {
+				"Ranking": 7,
+				"Name": "Inflammation of the nose and throat",
+				"Icd": "J02;J31.2",
+				"IcdName": "Acute pharyngitis;Chronic pharyngitis",
+				"ProfName": "Nasopharyngitis",
+				"ID": 44,
+				"Accuracy": 14.0625
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 8,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 11.25
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"35": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 15.0100069
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"40": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"54": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Depression",
+				"Icd": "F31;F32;F33;F34",
+				"IcdName": "Bipolar affective disorder;Depressive episode;Recurrent depressive disorder;Persistent mood [affective] disorders",
+				"ProfName": "Major depressive disorder",
+				"ID": 47,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 61.363636
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 30.6613617
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"64": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Smoking",
+				"Icd": "F17;Z72.0",
+				"IcdName": "Mental and behavioural disorders due to use of tobacco;Tobacco use",
+				"ProfName": "Tobacco smoking",
+				"ID": 19,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 75
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 73.125
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Acute inflammation of lung",
+				"Icd": "J12;J13;J14;J15;J16;J17;J18;P23",
+				"IcdName": "Viral pneumonia, not elsewhere classified;Pneumonia due to Streptococcus pneumoniae;Pneumonia due to Haemophilus influenzae;Bacterial pneumonia, not elsewhere classified;Pneumonia due to other infectious organisms, not elsewhere classified;Pneumonia in diseases classified elsewhere;Pneumonia, organism unspecified;Congenital pneumonia",
+				"ProfName": "Pneumonia",
+				"ID": 113,
+				"Accuracy": 56.25
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"101": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Food poisoning",
+				"Icd": "A05;A02;A03;A04",
+				"IcdName": "Other bacterial foodborne intoxications, not elsewhere classified;Other salmonella infections;Shigellosis;Other bacterial intestinal infections",
+				"ProfName": "Foodborne illness",
+				"ID": 281,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 27,
+				"Name": "Neurology"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Sick headache",
+				"Icd": "G43",
+				"IcdName": "Migraine",
+				"ProfName": "Migraine",
+				"ID": 67,
+				"Accuracy": 43.2
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"122": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Reflux disease",
+				"Icd": "K21",
+				"IcdName": "Gastro-oesophageal reflux disease",
+				"ProfName": "Gastroesophageal reflux disease",
+				"ID": 18,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 22.5
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"133": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"153": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Acute inflammation of lung",
+				"Icd": "J12;J13;J14;J15;J16;J17;J18;P23",
+				"IcdName": "Viral pneumonia, not elsewhere classified;Pneumonia due to Streptococcus pneumoniae;Pneumonia due to Haemophilus influenzae;Bacterial pneumonia, not elsewhere classified;Pneumonia due to other infectious organisms, not elsewhere classified;Pneumonia in diseases classified elsewhere;Pneumonia, organism unspecified;Congenital pneumonia",
+				"ProfName": "Pneumonia",
+				"ID": 113,
+				"Accuracy": 67.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Obstruction of a pulmonary artery",
+				"Icd": "I26",
+				"IcdName": "Pulmonary embolism",
+				"ProfName": "Pulmonary embolism",
+				"ID": 167,
+				"Accuracy": 26.25
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"181": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Reflux disease",
+				"Icd": "K21",
+				"IcdName": "Gastro-oesophageal reflux disease",
+				"ProfName": "Gastroesophageal reflux disease",
+				"ID": 18,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Stomach bleeding",
+				"Icd": "K92.2",
+				"IcdName": "Gastrointestinal haemorrhage, unspecified",
+				"ProfName": "Gastrointestinal bleeding",
+				"ID": 476,
+				"Accuracy": 60
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 15
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"203": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 32,
+				"Name": "Otolaryngology"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Inflammation of the nose and throat",
+				"Icd": "J02;J31.2",
+				"IcdName": "Acute pharyngitis;Chronic pharyngitis",
+				"ProfName": "Nasopharyngitis",
+				"ID": 44,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Reflux disease",
+				"Icd": "K21",
+				"IcdName": "Gastro-oesophageal reflux disease",
+				"ProfName": "Gastroesophageal reflux disease",
+				"ID": 18,
+				"Accuracy": 75
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 15
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"13": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 32,
+				"Name": "Otolaryngology"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Inflammation of the nose and throat",
+				"Icd": "J02;J31.2",
+				"IcdName": "Acute pharyngitis;Chronic pharyngitis",
+				"ProfName": "Nasopharyngitis",
+				"ID": 44,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 43.2
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 40.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Kissing disease",
+				"Icd": "B27",
+				"IcdName": "Infectious mononucleosis",
+				"ProfName": "Infectious mononucleosis",
+				"ID": 109,
+				"Accuracy": 10.08
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"14": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 68.57143
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 38.5457153
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Smoking",
+				"Icd": "F17;Z72.0",
+				"IcdName": "Mental and behavioural disorders due to use of tobacco;Tobacco use",
+				"ProfName": "Tobacco smoking",
+				"ID": 19,
+				"Accuracy": 32.1428566
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 32,
+				"Name": "Otolaryngology"
+			}],
+			"Issue": {
+				"Ranking": 5,
+				"Name": "Inflammation of the nose and throat",
+				"Icd": "J02;J31.2",
+				"IcdName": "Acute pharyngitis;Chronic pharyngitis",
+				"ProfName": "Nasopharyngitis",
+				"ID": 44,
+				"Accuracy": 26.7857151
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"15": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 63.2390633
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Reflux disease",
+				"Icd": "K21",
+				"IcdName": "Gastro-oesophageal reflux disease",
+				"ProfName": "Gastroesophageal reflux disease",
+				"ID": 18,
+				"Accuracy": 56.25
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Acute inflammation of lung",
+				"Icd": "J12;J13;J14;J15;J16;J17;J18;P23",
+				"IcdName": "Viral pneumonia, not elsewhere classified;Pneumonia due to Streptococcus pneumoniae;Pneumonia due to Haemophilus influenzae;Bacterial pneumonia, not elsewhere classified;Pneumonia due to other infectious organisms, not elsewhere classified;Pneumonia in diseases classified elsewhere;Pneumonia, organism unspecified;Congenital pneumonia",
+				"ProfName": "Pneumonia",
+				"ID": 113,
+				"Accuracy": 52.734375
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 5,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 50.625
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 6,
+				"Name": "Smoking",
+				"Icd": "F17;Z72.0",
+				"IcdName": "Mental and behavioural disorders due to use of tobacco;Tobacco use",
+				"ProfName": "Tobacco smoking",
+				"ID": 19,
+				"Accuracy": 37.96875
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 32,
+				"Name": "Otolaryngology"
+			}],
+			"Issue": {
+				"Ranking": 7,
+				"Name": "Inflammation of the nose and throat",
+				"Icd": "J02;J31.2",
+				"IcdName": "Acute pharyngitis;Chronic pharyngitis",
+				"ProfName": "Nasopharyngitis",
+				"ID": 44,
+				"Accuracy": 14.0625
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 8,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 11.25
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"28": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 70.5882339
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Smoking",
+				"Icd": "F17;Z72.0",
+				"IcdName": "Mental and behavioural disorders due to use of tobacco;Tobacco use",
+				"ProfName": "Tobacco smoking",
+				"ID": 19,
+				"Accuracy": 26.4705887
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"30": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"40": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"45": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Reflux disease",
+				"Icd": "K21",
+				"IcdName": "Gastro-oesophageal reflux disease",
+				"ProfName": "Gastroesophageal reflux disease",
+				"ID": 18,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 27
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Coronary heart disease",
+				"Icd": "I20;I21;I22;I23;I24;I25",
+				"IcdName": "Angina pectoris;Acute myocardial infarction;Subsequent myocardial infarction;Certain current complications following acute myocardial infarction;Other acute ischaemic heart diseases;Chronic ischaemic heart disease",
+				"ProfName": "Coronary artery disease",
+				"ID": 86,
+				"Accuracy": 10.8
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Food poisoning",
+				"Icd": "A05;A02;A03;A04",
+				"IcdName": "Other bacterial foodborne intoxications, not elsewhere classified;Other salmonella infections;Shigellosis;Other bacterial intestinal infections",
+				"ProfName": "Foodborne illness",
+				"ID": 281,
+				"Accuracy": 9
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"46": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Reflux disease",
+				"Icd": "K21",
+				"IcdName": "Gastro-oesophageal reflux disease",
+				"ProfName": "Gastroesophageal reflux disease",
+				"ID": 18,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 32,
+				"Name": "Otolaryngology"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Inflammation of the nose and throat",
+				"Icd": "J02;J31.2",
+				"IcdName": "Acute pharyngitis;Chronic pharyngitis",
+				"ProfName": "Nasopharyngitis",
+				"ID": 44,
+				"Accuracy": 60
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 54
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 48
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"87": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 32,
+				"Name": "Otolaryngology"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Inflammation of the nose and throat",
+				"Icd": "J02;J31.2",
+				"IcdName": "Acute pharyngitis;Chronic pharyngitis",
+				"ProfName": "Nasopharyngitis",
+				"ID": 44,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"95": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 67.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 33.7274971
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"96": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"122": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Reflux disease",
+				"Icd": "K21",
+				"IcdName": "Gastro-oesophageal reflux disease",
+				"ProfName": "Gastroesophageal reflux disease",
+				"ID": 18,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 22.5
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"133": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"136": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 31,
+				"Name": "Orthopedics"
+			}, {
+				"SpecialistID": 0,
+				"ID": 41,
+				"Name": "Rheumatology"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Slipped disc",
+				"Icd": "M51.2",
+				"IcdName": "Other specified intervertebral disc displacement",
+				"ProfName": "Disc herniation",
+				"ID": 103,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"153": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Acute inflammation of lung",
+				"Icd": "J12;J13;J14;J15;J16;J17;J18;P23",
+				"IcdName": "Viral pneumonia, not elsewhere classified;Pneumonia due to Streptococcus pneumoniae;Pneumonia due to Haemophilus influenzae;Bacterial pneumonia, not elsewhere classified;Pneumonia due to other infectious organisms, not elsewhere classified;Pneumonia in diseases classified elsewhere;Pneumonia, organism unspecified;Congenital pneumonia",
+				"ProfName": "Pneumonia",
+				"ID": 113,
+				"Accuracy": 67.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Obstruction of a pulmonary artery",
+				"Icd": "I26",
+				"IcdName": "Pulmonary embolism",
+				"ProfName": "Pulmonary embolism",
+				"ID": 167,
+				"Accuracy": 26.25
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"169": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 56.25
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 32,
+				"Name": "Otolaryngology"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Inflammation of the nose and throat",
+				"Icd": "J02;J31.2",
+				"IcdName": "Acute pharyngitis;Chronic pharyngitis",
+				"ProfName": "Nasopharyngitis",
+				"ID": 44,
+				"Accuracy": 37.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Kissing disease",
+				"Icd": "B27",
+				"IcdName": "Infectious mononucleosis",
+				"ProfName": "Infectious mononucleosis",
+				"ID": 109,
+				"Accuracy": 19.5
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"203": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 32,
+				"Name": "Otolaryngology"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Inflammation of the nose and throat",
+				"Icd": "J02;J31.2",
+				"IcdName": "Acute pharyngitis;Chronic pharyngitis",
+				"ProfName": "Nasopharyngitis",
+				"ID": 44,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Reflux disease",
+				"Icd": "K21",
+				"IcdName": "Gastro-oesophageal reflux disease",
+				"ProfName": "Gastroesophageal reflux disease",
+				"ID": 18,
+				"Accuracy": 75
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 15
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"115": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 76.49999
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"12": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 67.5
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"140": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 11,
+				"Name": "Dermatology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Lyme disease",
+				"Icd": "A69.2",
+				"IcdName": "Lyme disease",
+				"ProfName": "Lyme borreliosis",
+				"ID": 79,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"11": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 67.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Acute inflammation of lung",
+				"Icd": "J12;J13;J14;J15;J16;J17;J18;P23",
+				"IcdName": "Viral pneumonia, not elsewhere classified;Pneumonia due to Streptococcus pneumoniae;Pneumonia due to Haemophilus influenzae;Bacterial pneumonia, not elsewhere classified;Pneumonia due to other infectious organisms, not elsewhere classified;Pneumonia in diseases classified elsewhere;Pneumonia, organism unspecified;Congenital pneumonia",
+				"ProfName": "Pneumonia",
+				"ID": 113,
+				"Accuracy": 51.9230766
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 32,
+				"Name": "Otolaryngology"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Inflammation of the nose and throat",
+				"Icd": "J02;J31.2",
+				"IcdName": "Acute pharyngitis;Chronic pharyngitis",
+				"ProfName": "Nasopharyngitis",
+				"ID": 44,
+				"Accuracy": 12.1153851
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 5,
+				"Name": "Kissing disease",
+				"Icd": "B27",
+				"IcdName": "Infectious mononucleosis",
+				"ProfName": "Infectious mononucleosis",
+				"ID": 109,
+				"Accuracy": 9.692307
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"12": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 67.5
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"16": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Depression",
+				"Icd": "F31;F32;F33;F34",
+				"IcdName": "Bipolar affective disorder;Depressive episode;Recurrent depressive disorder;Persistent mood [affective] disorders",
+				"ProfName": "Major depressive disorder",
+				"ID": 47,
+				"Accuracy": 72
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 67.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 67.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 5,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 67.4549942
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 6,
+				"Name": "Kissing disease",
+				"Icd": "B27",
+				"IcdName": "Infectious mononucleosis",
+				"ProfName": "Infectious mononucleosis",
+				"ID": 109,
+				"Accuracy": 21.5999985
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}, {
+				"SpecialistID": 0,
+				"ID": 41,
+				"Name": "Rheumatology"
+			}],
+			"Issue": {
+				"Ranking": 7,
+				"Name": "Chronic tiredness syndrome",
+				"Icd": "G93.3",
+				"IcdName": "Postviral fatigue syndrome",
+				"ProfName": "Chronic fatigue syndrome",
+				"ID": 211,
+				"Accuracy": 20.25
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"23": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Depression",
+				"Icd": "F31;F32;F33;F34",
+				"IcdName": "Bipolar affective disorder;Depressive episode;Recurrent depressive disorder;Persistent mood [affective] disorders",
+				"ProfName": "Major depressive disorder",
+				"ID": 47,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 18,
+				"Name": "Gynecology"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Pregnancy",
+				"Icd": "Z33",
+				"IcdName": "Pregnant state, incidental",
+				"ProfName": "Gravidity",
+				"ID": 446,
+				"Accuracy": 56.25
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 14,
+				"Name": "Gastroenterology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Constipation",
+				"Icd": "K59.0",
+				"IcdName": "Constipation",
+				"ProfName": "Obstipation",
+				"ID": 53,
+				"Accuracy": 45
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 22.5
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"44": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Food poisoning",
+				"Icd": "A05;A02;A03;A04",
+				"IcdName": "Other bacterial foodborne intoxications, not elsewhere classified;Other salmonella infections;Shigellosis;Other bacterial intestinal infections",
+				"ProfName": "Foodborne illness",
+				"ID": 281,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 27,
+				"Name": "Neurology"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Sick headache",
+				"Icd": "G43",
+				"IcdName": "Migraine",
+				"ProfName": "Migraine",
+				"ID": 67,
+				"Accuracy": 89.1
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 18,
+				"Name": "Gynecology"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Pregnancy",
+				"Icd": "Z33",
+				"IcdName": "Pregnant state, incidental",
+				"ProfName": "Gravidity",
+				"ID": 446,
+				"Accuracy": 36
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Smoking",
+				"Icd": "F17;Z72.0",
+				"IcdName": "Mental and behavioural disorders due to use of tobacco;Tobacco use",
+				"ProfName": "Tobacco smoking",
+				"ID": 19,
+				"Accuracy": 27
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 5,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 26.982
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 6,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 22.5
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 27,
+				"Name": "Neurology"
+			}],
+			"Issue": {
+				"Ranking": 7,
+				"Name": "Headache",
+				"Icd": "G44;R51",
+				"IcdName": "Other headache syndromes;Headache",
+				"ProfName": "Cephalalgia",
+				"ID": 104,
+				"Accuracy": 18
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"52": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Depression",
+				"Icd": "F31;F32;F33;F34",
+				"IcdName": "Bipolar affective disorder;Depressive episode;Recurrent depressive disorder;Persistent mood [affective] disorders",
+				"ProfName": "Major depressive disorder",
+				"ID": 47,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Smoking",
+				"Icd": "F17;Z72.0",
+				"IcdName": "Mental and behavioural disorders due to use of tobacco;Tobacco use",
+				"ProfName": "Tobacco smoking",
+				"ID": 19,
+				"Accuracy": 11.25
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"54": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Depression",
+				"Icd": "F31;F32;F33;F34",
+				"IcdName": "Bipolar affective disorder;Depressive episode;Recurrent depressive disorder;Persistent mood [affective] disorders",
+				"ProfName": "Major depressive disorder",
+				"ID": 47,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 61.363636
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 30.6613617
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"56": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Cold",
+				"Icd": "J00",
+				"IcdName": "Acute nasopharyngitis [common cold]",
+				"ProfName": "Common cold",
+				"ID": 80,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"114": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"115": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 76.49999
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"138": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 60
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 45
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"139": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Coronary heart disease",
+				"Icd": "I20;I21;I22;I23;I24;I25",
+				"IcdName": "Angina pectoris;Acute myocardial infarction;Subsequent myocardial infarction;Certain current complications following acute myocardial infarction;Other acute ischaemic heart diseases;Chronic ischaemic heart disease",
+				"ProfName": "Coronary artery disease",
+				"ID": 86,
+				"Accuracy": 53.9999924
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Heart attack",
+				"Icd": "I21;I22",
+				"IcdName": "Acute myocardial infarction;Subsequent myocardial infarction",
+				"ProfName": "Myocardial infarction",
+				"ID": 87,
+				"Accuracy": 31.5
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"140": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 11,
+				"Name": "Dermatology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Lyme disease",
+				"Icd": "A69.2",
+				"IcdName": "Lyme disease",
+				"ProfName": "Lyme borreliosis",
+				"ID": 79,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"144": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Coronary heart disease",
+				"Icd": "I20;I21;I22;I23;I24;I25",
+				"IcdName": "Angina pectoris;Acute myocardial infarction;Subsequent myocardial infarction;Certain current complications following acute myocardial infarction;Other acute ischaemic heart diseases;Chronic ischaemic heart disease",
+				"ProfName": "Coronary artery disease",
+				"ID": 86,
+				"Accuracy": 48.03202
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Heart attack",
+				"Icd": "I21;I22",
+				"IcdName": "Acute myocardial infarction;Subsequent myocardial infarction",
+				"ProfName": "Myocardial infarction",
+				"ID": 87,
+				"Accuracy": 36.0240135
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 4,
+				"Name": "Obstruction of a pulmonary artery",
+				"Icd": "I26",
+				"IcdName": "Pulmonary embolism",
+				"ProfName": "Pulmonary embolism",
+				"ID": 167,
+				"Accuracy": 36.0240135
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"149": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"175": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}, {
+				"SpecialistID": 0,
+				"ID": 35,
+				"Name": "Pulmonology"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Acute inflammation of lung",
+				"Icd": "J12;J13;J14;J15;J16;J17;J18;P23",
+				"IcdName": "Viral pneumonia, not elsewhere classified;Pneumonia due to Streptococcus pneumoniae;Pneumonia due to Haemophilus influenzae;Bacterial pneumonia, not elsewhere classified;Pneumonia due to other infectious organisms, not elsewhere classified;Pneumonia in diseases classified elsewhere;Pneumonia, organism unspecified;Congenital pneumonia",
+				"ProfName": "Pneumonia",
+				"ID": 113,
+				"Accuracy": 20.76923
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"207": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 90
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"238": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Depression",
+				"Icd": "F31;F32;F33;F34",
+				"IcdName": "Bipolar affective disorder;Depressive episode;Recurrent depressive disorder;Persistent mood [affective] disorders",
+				"ProfName": "Major depressive disorder",
+				"ID": 47,
+				"Accuracy": 72
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"124": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 5,
+				"Name": "Allergology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Hypersensitivity reaction",
+				"Icd": "T78.4",
+				"IcdName": "Allergy, unspecified",
+				"ProfName": "Allergy",
+				"ID": 15,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "German measles",
+				"Icd": "B06",
+				"IcdName": "Rubella [German measles]",
+				"ProfName": "Rubella",
+				"ID": 107,
+				"Accuracy": 30.0200138
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"138": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Flu",
+				"Icd": "J10;J11",
+				"IcdName": "Influenza due to other identified influenza virus;Influenza, virus not identified",
+				"ProfName": "Influenza",
+				"ID": 11,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 60
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Drug side effect",
+				"Icd": "T88.7",
+				"IcdName": "Unspecified adverse effect of drug or medicament",
+				"ProfName": "Adverse drug reaction",
+				"ID": 431,
+				"Accuracy": 45
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"139": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 90
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 2,
+				"Name": "Coronary heart disease",
+				"Icd": "I20;I21;I22;I23;I24;I25",
+				"IcdName": "Angina pectoris;Acute myocardial infarction;Subsequent myocardial infarction;Certain current complications following acute myocardial infarction;Other acute ischaemic heart diseases;Chronic ischaemic heart disease",
+				"ProfName": "Coronary artery disease",
+				"ID": 86,
+				"Accuracy": 53.9999924
+			}
+		}, {
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 1,
+				"Name": "Cardiology"
+			}, {
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 19,
+				"Name": "Internal medicine"
+			}],
+			"Issue": {
+				"Ranking": 3,
+				"Name": "Heart attack",
+				"Icd": "I21;I22",
+				"IcdName": "Acute myocardial infarction;Subsequent myocardial infarction",
+				"ProfName": "Myocardial infarction",
+				"ID": 87,
+				"Accuracy": 31.5
+			}
+		}]
+	}
+}, {
+	"Female": {
+		"149": [{
+			"Specialisation": [{
+				"SpecialistID": 0,
+				"ID": 15,
+				"Name": "General practice"
+			}, {
+				"SpecialistID": 0,
+				"ID": 36,
+				"Name": "Psychiatry"
+			}],
+			"Issue": {
+				"Ranking": 1,
+				"Name": "Excessive feeling of fear",
+				"Icd": "F40;F41",
+				"IcdName": "Phobic anxiety disorders;Other anxiety disorders",
+				"ProfName": "Anxiety disorder",
+				"ID": 181,
+				"Accuracy": 90
+			}
+		}]
+	}
+}]
