@@ -160,3 +160,24 @@ Example output for disease 10 -
 		"Accuracy": 9.1125
 	}
 }]
+
+ProposedSymptoms also takes just an int (i.e. symptom id) as argument and sample output:
+[{
+	"ID": 123,
+	"Name": "Missed period"
+}, {
+	"ID": 112,
+	"Name": "Menstruation disorder"
+}, {
+	"ID": 28,
+	"Name": "Stuffy nose"
+}, {
+	"ID": 10,
+	"Name": "Abdominal pain"
+}, {
+	"ID": 12,
+	"Name": "Pain in the limbs"
+}, {
+	"ID": 136,
+	"Name": "Neck pain"
+}]
