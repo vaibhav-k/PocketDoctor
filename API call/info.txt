@@ -182,7 +182,8 @@ ProposedSymptoms also takes just an int (i.e. symptom id) as argument and sample
 	"Name": "Neck pain"
 }]
 
-<b>getSpecialisation gives doctor types along with the issue. Take the issue for the issue you got. getSpecialisation also takes symptom id as input and gives this output- </b>
+getSpecialisation gives doctor types along with the issue. Take the issue for the issue you got. getSpecialisation also takes symptom id as input and gives this output-
+
 [{
 	"Specialisation": [{
 		"SpecialistID": 0,
