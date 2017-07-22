@@ -181,3 +181,63 @@ ProposedSymptoms also takes just an int (i.e. symptom id) as argument and sample
 	"ID": 136,
 	"Name": "Neck pain"
 }]
+
+<b>getSpecialisation gives doctor types along with the issue. Take the issue for the issue you got. getSpecialisation also takes symptom id as input and gives this output- </b>
+[{
+	"Specialisation": [{
+		"SpecialistID": 0,
+		"ID": 15,
+		"Name": "General practice"
+	}, {
+		"SpecialistID": 0,
+		"ID": 31,
+		"Name": "Orthopedics"
+	}, {
+		"SpecialistID": 0,
+		"ID": 41,
+		"Name": "Rheumatology"
+	}],
+	"Issue": {
+		"Ranking": 1,
+		"Name": "Slipped disc",
+		"Icd": "M51.2",
+		"IcdName": "Other specified intervertebral disc displacement",
+		"ProfName": "Disc herniation",
+		"ID": 103,
+		"Accuracy": 90
+	}
+}, {
+	"Specialisation": [{
+		"SpecialistID": 0,
+		"ID": 15,
+		"Name": "General practice"
+	}],
+	"Issue": {
+		"Ranking": 2,
+		"Name": "Strain of the back muscles",
+		"Icd": "T09.2;M54.5;S39.9",
+		"IcdName": "Dislocation, sprain and strain of unspecified joint and ligament of trunk;Low back pain;Unspecified injury of abdomen, lower back and pelvis",
+		"ProfName": "Muscle tightness in back",
+		"ID": 488,
+		"Accuracy": 72
+	}
+}, {
+	"Specialisation": [{
+		"SpecialistID": 0,
+		"ID": 15,
+		"Name": "General practice"
+	}, {
+		"SpecialistID": 0,
+		"ID": 42,
+		"Name": "Urology"
+	}],
+	"Issue": {
+		"Ranking": 3,
+		"Name": "Kidney stones",
+		"Icd": "N20",
+		"IcdName": "Calculus of kidney and ureter",
+		"ProfName": "Nephrolith",
+		"ID": 324,
+		"Accuracy": 13.32
+	}
+}]
