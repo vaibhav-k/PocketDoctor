@@ -54,7 +54,7 @@ def loadDiagnosis(selectedSymptoms, gender, yearOfBirth, _token, language, healt
     ret = []
     for ss in selectedSymptoms:
         serializedSymptoms = json.dumps(ss)
-        action = "diagnosis/specialisations?symptoms=[{0}]&gender={1}&year_of_birth={2}".format(serializedSymptoms, gender.name, yearOfBirth)
+        action = "diagnosis?symptoms=[{0}]&gender={1}&year_of_birth={2}".format(serializedSymptoms, gender.name, yearOfBirth)
         ret.append(json.dumps(_loadFromWebService(action, _token, language, healthUrl)))
         return json.dumps(ret)
     
