@@ -11,9 +11,9 @@ Gender = Enum('Gender', 'Male Female')
 SelectorStatus = Enum('SelectorStatus', 'Man Woman Boy Girl')
 
 def read_in():
-    #lines = sys.stdin.readlines()
-    lines = raw_input()
-    return json.loads(lines)
+    lines = sys.stdin.readlines()
+    #lines = raw_input()
+    return json.loads(lines[0])
 
 def _loadToken(username, password, url):
     rawHashString = hmac.new(bytes(password), url.encode('utf-8')).digest()
