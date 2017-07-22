@@ -1,7 +1,7 @@
 Added getIssues.py
 Give input as one integer
 
-Input for now is just an int - example: 10
+Input for all files should be like - ["13", "104", "10"] i.e. array of strings
 
 getIssues gives more information about disease
 Example output for issue 104 - 
