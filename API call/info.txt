@@ -1,0 +1,14 @@
+Added getIssues.py
+Give input as one integer
+Gives more information about disease
+Example output for issue 104 - 
+{
+	"DescriptionShort": "Headaches are very common.  Often pain is due to another illness and the cause of the pain is notexactly known.  Examples include tension headaches, migraines, cluster headaches, and headaches associated with medication.",
+	"Description": "Headaches, along with back pain, are one of the most common health-related discomforts in the population.  The occurrence of headaches is very variable.  More than 90% of all headaches are primary, meaning that the pain itself is the disease and even modern imaging investigations have failed to find a cause for them.  The most common examples are the tension headaches, migraines, and headaches associate with medication.  Cluster headaches are less common.",
+	"MedicalCondition": "Tension headaches generally affect the entire head, are weak-to-mildly strong, and are characterized by a pulling or pushing sensation.  They can last up to a week and exercise will not alleviate them.  Migraines on the other hand typically are on one side, pulsating, intense, and are made worse by activity.  Additionally, they can be accompanied by nausea and impaired vision and sense of touch (see separate article on migraines).Cluster headaches are intense attacks on one side and usually occur during sleep and can be accompanied by a red, tearing eye.",
+	"Synonyms": null,
+	"ProfName": "Cephalalgia",
+	"PossibleSymptoms": "Headache,Nausea",
+	"TreatmentDescription": "Because the cause of primary headaches is unknown, treatment tends to be aimed at alleviating the headache with painkillers.  Therapy with oxygen is advisable for cluster headaches.  Generally, known triggers for headaches should be avoided or diminished with medication.",
+	"Name": "Headache"
+}
