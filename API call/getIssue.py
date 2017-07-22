@@ -37,10 +37,7 @@ def _loadFromWebService(action, _token, language, healthUrl):
     try:
         response.raise_for_status()
     except requests.exceptions.HTTPError as e:
-        print ("----------------------------------")
-        print ("HTTPError: " + e.response.text )
-        print ("----------------------------------")
-        raise
+        return
 
     try:
         dataJson = response.json()
@@ -51,10 +48,15 @@ def _loadFromWebService(action, _token, language, healthUrl):
     return data
 
 def loadIssueInfo(issueId, _token, language, healthUrl):
-    if isinstance( issueId, int ):
-        issueId = str(issueId)
-    action = "issues/{0}/info".format(issueId)
-    return json.dumps(_loadFromWebService(action, _token, language, healthUrl))
+    ret = []
+    for ii in issueId:
+        if isinstance( ii, int ):
+            ii = str(ii)
+        action = "issues/{0}/info".format(ii)
+        data = _loadFromWebService(action, _token, language, healthUrl)
+        if data:    
+            ret.append(json.dumps(data))
+    return json.dumps(ret)
 
 #start process
 if __name__ == '__main__':
