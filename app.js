@@ -2,12 +2,15 @@ const restify = require('restify');
 const builder = require('botbuilder');
 require('dotenv-extended').load();
 
+const commands = require('./app/recognizers/commands');
+
 //require dialogs
 const dialog = {
     greet: require('./app/dialogs/greet'),
     fixAppointment: require('./app/dialogs/fixAppointment'),
     diagnoseSymptoms: require('./app/dialogs/diagnoseSymptoms'),
-    diagnoseFullBody: require('./app/dialogs/diagnoseFullBody')
+    diagnoseFullBody: require('./app/dialogs/diagnoseFullBody'),
+    platformFix: require('./app/dialogs/platformFix')
 };
 
 // Create chat connector for communicating with the Bot Framework Service
@@ -22,6 +25,7 @@ const bot = new builder.UniversalBot(connector, {
 
 var intents = new builder.IntentDialog({
     recognizers: [
+        commands,
         new builder.LuisRecognizer(process.env.LUIS_MODEL_URL)
     ],
     intentThreshold: 0.2,
@@ -32,12 +36,14 @@ intents.matches('greet', '/greet');
 intents.matches('fixAppointment', '/fixAppointment')
 intents.matches('diagnoseSymptoms', '/diagnoseSymptoms')
 intents.matches('diagnoseFullBody', '/diagnoseFullBody')
+intents.matches('platformFix', '/platformFix')
 
 bot.dialog('/', intents);
 dialog.greet(bot);
 dialog.fixAppointment(bot);
 dialog.diagnoseSymptoms(bot);
 dialog.diagnoseFullBody(bot);
+dialog.platformFix(bot);
 
 bot.dialog('/confused', [
     function (session, args, next) {
