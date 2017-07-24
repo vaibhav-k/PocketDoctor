@@ -18,7 +18,9 @@
   "homepage": "https://github.com/k-vaibhav/PocketDoctor#readme",
   "dependencies": {
     "botbuilder": "^3.8.4",
+    "child-process": "^1.0.2",
     "dotenv-extended": "^2.0.1",
+    "lodash": "^4.17.4",
     "restify": "^5.0.0"
   }
 }
