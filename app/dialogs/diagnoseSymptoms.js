@@ -14,6 +14,7 @@ module.exports = function(bot) {
         function(session, results) {
             let msg = results.response
             msg = msg.toLowerCase()
+
             Object.keys(symptomsList).forEach((symptom) => {
                 if(msg.includes(symptom)) {
                     arr.push(symptom)
@@ -37,10 +38,12 @@ module.exports = function(bot) {
         },
         function(session, results) {
             session.conversationData.sex = results.response.entity
+            symptomsList = {}
             symptoms.forEach((symptom)=> {
                 symptomsList[symptom["Name"].toLowerCase()] = symptom.ID
             })
             // console.log(symptomsList)
+            arr = []
             session.beginDialog('/getSymptoms')
         },
         function(session, results) {
