@@ -36,6 +36,10 @@ const parse = {
         intent: 'fixAppointment',
         score: 1
     }),
+    thankBack: () => ({
+        intent: 'thankBack',
+        score: 1
+    }),
     platformFix: () => ({
         intent: 'platformFix',
         score: 1

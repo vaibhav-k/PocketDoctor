@@ -10,6 +10,7 @@ const dialog = {
     fixAppointment: require('./app/dialogs/fixAppointment'),
     diagnoseSymptoms: require('./app/dialogs/diagnoseSymptoms'),
     diagnoseFullBody: require('./app/dialogs/diagnoseFullBody'),
+    thankBack: require('./app/dialogs/thankBack'),
     platformFix: require('./app/dialogs/platformFix')
 };
 
@@ -36,6 +37,7 @@ intents.matches('greet', '/greet');
 intents.matches('fixAppointment', '/fixAppointment')
 intents.matches('diagnoseSymptoms', '/diagnoseSymptoms')
 intents.matches('diagnoseFullBody', '/diagnoseFullBody')
+intents.matches('thankBack', '/thankBack')
 intents.matches('platformFix', '/platformFix')
 
 bot.dialog('/', intents);
@@ -43,6 +45,7 @@ dialog.greet(bot);
 dialog.fixAppointment(bot);
 dialog.diagnoseSymptoms(bot);
 dialog.diagnoseFullBody(bot);
+dialog.thankBack(bot);
 dialog.platformFix(bot);
 
 bot.dialog('/confused', [
