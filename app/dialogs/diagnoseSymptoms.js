@@ -9,7 +9,7 @@ let arr = []
 module.exports = function(bot) {
     bot.dialog('/getSymptoms', [
         function (session, args, next) {
-            builder.Prompts.text(session, 'Enter your symptoms')
+            builder.Prompts.text(session, 'Enter your symptoms please:')
         },
         function(session, results) {
             let msg = results.response
@@ -20,7 +20,7 @@ module.exports = function(bot) {
                     arr.push(symptom)
                 }
             })
-            builder.Prompts.confirm(session, 'Would you like to enter more symptoms')
+            builder.Prompts.confirm(session, 'Would you like to enter more symptoms?')
         },
         function (session, results) {
             if(results.response) {
@@ -33,8 +33,8 @@ module.exports = function(bot) {
 
     bot.dialog('/diagnoseSymptoms', [
         function (session, args, next) {
-            session.send('This is diagnoseSymptoms')
-            builder.Prompts.choice(session, "Which sex?", "Male|Female", builder.ListStyle.button)
+            //session.send('This is diagnoseSymptoms')
+            builder.Prompts.choice(session, "Please choose  your gender:", "Male|Female", builder.ListStyle.button)
         },
         function(session, results) {
             session.conversationData.sex = results.response.entity
@@ -93,7 +93,7 @@ module.exports = function(bot) {
         }
     )
     .cancelAction(
-        "cancel", "How can I help you.", 
+        "cancel", "How can I help you?", 
         {
             matches: /^cancel$/i,
             confirmPrompt: "This will cancel. Are you sure?"
