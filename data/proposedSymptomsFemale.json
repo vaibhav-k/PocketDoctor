@@ -1,0 +1,1992 @@
+[{
+	"10": [{
+		"ID": 123,
+		"Name": "Missed period"
+	}, {
+		"ID": 101,
+		"Name": "Vomiting"
+	}, {
+		"ID": 92,
+		"Name": "Early satiety"
+	}, {
+		"ID": 44,
+		"Name": "Nausea"
+	}, {
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 104,
+		"Name": "Back pain"
+	}]
+}, {
+	"44": [{
+		"ID": 123,
+		"Name": "Missed period"
+	}, {
+		"ID": 112,
+		"Name": "Menstruation disorder"
+	}, {
+		"ID": 9,
+		"Name": "Headache"
+	}, {
+		"ID": 64,
+		"Name": "Sputum"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}]
+}, {
+	"45": [{
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 203,
+		"Name": "Pain on swallowing"
+	}, {
+		"ID": 10,
+		"Name": "Abdominal pain"
+	}, {
+		"ID": 101,
+		"Name": "Vomiting"
+	}, {
+		"ID": 122,
+		"Name": "Hiccups"
+	}]
+}, {
+	"54": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 175,
+		"Name": "Chills"
+	}]
+}, {
+	"92": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 10,
+		"Name": "Abdominal pain"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 203,
+		"Name": "Pain on swallowing"
+	}, {
+		"ID": 122,
+		"Name": "Hiccups"
+	}]
+}, {
+	"101": [{
+		"ID": 9,
+		"Name": "Headache"
+	}, {
+		"ID": 10,
+		"Name": "Abdominal pain"
+	}, {
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}]
+}, {
+	"153": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 64,
+		"Name": "Sputum"
+	}, {
+		"ID": 29,
+		"Name": "Shortness of breath"
+	}, {
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 238,
+		"Name": "Anxiety"
+	}]
+}, {
+	"179": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 203,
+		"Name": "Pain on swallowing"
+	}, {
+		"ID": 122,
+		"Name": "Hiccups"
+	}, {
+		"ID": 46,
+		"Name": "Burning in the throat"
+	}]
+}, {
+	"181": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 203,
+		"Name": "Pain on swallowing"
+	}, {
+		"ID": 122,
+		"Name": "Hiccups"
+	}, {
+		"ID": 46,
+		"Name": "Burning in the throat"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}]
+}, {
+	"112": [{
+		"ID": 123,
+		"Name": "Missed period"
+	}, {
+		"ID": 23,
+		"Name": "Weight gain"
+	}, {
+		"ID": 44,
+		"Name": "Nausea"
+	}, {
+		"ID": 9,
+		"Name": "Headache"
+	}]
+}, {
+	"123": [{
+		"ID": 112,
+		"Name": "Menstruation disorder"
+	}, {
+		"ID": 23,
+		"Name": "Weight gain"
+	}, {
+		"ID": 44,
+		"Name": "Nausea"
+	}, {
+		"ID": 9,
+		"Name": "Headache"
+	}]
+}, {
+	"12": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 95,
+		"Name": "Sneezing"
+	}]
+}, {
+	"140": [{
+		"ID": 9,
+		"Name": "Headache"
+	}, {
+		"ID": 31,
+		"Name": "Chest tightness"
+	}, {
+		"ID": 12,
+		"Name": "Pain in the limbs"
+	}, {
+		"ID": 124,
+		"Name": "Skin rash"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}]
+}, {
+	"248": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 169,
+		"Name": "Swollen glands on the neck"
+	}]
+}, {
+	"115": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}, {
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 153,
+		"Name": "Fast, deepened breathing"
+	}, {
+		"ID": 31,
+		"Name": "Chest tightness"
+	}]
+}, {
+	"104": [{
+		"ID": 123,
+		"Name": "Missed period"
+	}, {
+		"ID": 112,
+		"Name": "Menstruation disorder"
+	}, {
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 10,
+		"Name": "Abdominal pain"
+	}, {
+		"ID": 12,
+		"Name": "Pain in the limbs"
+	}, {
+		"ID": 136,
+		"Name": "Neck pain"
+	}]
+}, {
+	"15": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}]
+}, {
+	"17": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}]
+}, {
+	"29": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 64,
+		"Name": "Sputum"
+	}]
+}, {
+	"30": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}, {
+		"ID": 124,
+		"Name": "Skin rash"
+	}, {
+		"ID": 96,
+		"Name": "Itching in the nose"
+	}]
+}, {
+	"31": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 17,
+		"Name": "Chest pain"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}, {
+		"ID": 30,
+		"Name": "Wheezing"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}]
+}, {
+	"37": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 153,
+		"Name": "Fast, deepened breathing"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 31,
+		"Name": "Chest tightness"
+	}]
+}, {
+	"44": [{
+		"ID": 123,
+		"Name": "Missed period"
+	}, {
+		"ID": 112,
+		"Name": "Menstruation disorder"
+	}, {
+		"ID": 9,
+		"Name": "Headache"
+	}, {
+		"ID": 64,
+		"Name": "Sputum"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}]
+}, {
+	"45": [{
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 203,
+		"Name": "Pain on swallowing"
+	}, {
+		"ID": 10,
+		"Name": "Abdominal pain"
+	}, {
+		"ID": 101,
+		"Name": "Vomiting"
+	}, {
+		"ID": 122,
+		"Name": "Hiccups"
+	}]
+}, {
+	"64": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 12,
+		"Name": "Pain in the limbs"
+	}]
+}, {
+	"133": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}, {
+		"ID": 30,
+		"Name": "Wheezing"
+	}, {
+		"ID": 124,
+		"Name": "Skin rash"
+	}, {
+		"ID": 96,
+		"Name": "Itching in the nose"
+	}]
+}, {
+	"153": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 64,
+		"Name": "Sputum"
+	}, {
+		"ID": 29,
+		"Name": "Shortness of breath"
+	}, {
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 238,
+		"Name": "Anxiety"
+	}]
+}, {
+	"248": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 169,
+		"Name": "Swollen glands on the neck"
+	}]
+}, {
+	"33": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}, {
+		"ID": 30,
+		"Name": "Wheezing"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}]
+}, {
+	"57": [{
+		"ID": 31,
+		"Name": "Chest tightness"
+	}, {
+		"ID": 17,
+		"Name": "Chest pain"
+	}, {
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 29,
+		"Name": "Shortness of breath"
+	}, {
+		"ID": 153,
+		"Name": "Fast, deepened breathing"
+	}, {
+		"ID": 139,
+		"Name": "Cold sweats"
+	}]
+}, {
+	"73": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}, {
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 30,
+		"Name": "Wheezing"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}]
+}, {
+	"75": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}, {
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 30,
+		"Name": "Wheezing"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}]
+}, {
+	"76": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}, {
+		"ID": 30,
+		"Name": "Wheezing"
+	}, {
+		"ID": 124,
+		"Name": "Skin rash"
+	}, {
+		"ID": 96,
+		"Name": "Itching in the nose"
+	}]
+}, {
+	"170": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}, {
+		"ID": 30,
+		"Name": "Wheezing"
+	}, {
+		"ID": 124,
+		"Name": "Skin rash"
+	}, {
+		"ID": 96,
+		"Name": "Itching in the nose"
+	}]
+}, {
+	"211": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}, {
+		"ID": 30,
+		"Name": "Wheezing"
+	}, {
+		"ID": 124,
+		"Name": "Skin rash"
+	}, {
+		"ID": 96,
+		"Name": "Itching in the nose"
+	}]
+}, {
+	"244": []
+}, {
+	"273": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 40,
+		"Name": "Increased thirst"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}]
+}, {
+	"287": []
+}, {
+	"9": [{
+		"ID": 123,
+		"Name": "Missed period"
+	}, {
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 112,
+		"Name": "Menstruation disorder"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}]
+}, {
+	"11": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 12,
+		"Name": "Pain in the limbs"
+	}, {
+		"ID": 95,
+		"Name": "Sneezing"
+	}]
+}, {
+	"16": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 123,
+		"Name": "Missed period"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 9,
+		"Name": "Headache"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}]
+}, {
+	"44": [{
+		"ID": 123,
+		"Name": "Missed period"
+	}, {
+		"ID": 112,
+		"Name": "Menstruation disorder"
+	}, {
+		"ID": 9,
+		"Name": "Headache"
+	}, {
+		"ID": 64,
+		"Name": "Sputum"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}]
+}, {
+	"52": [{
+		"ID": 54,
+		"Name": "Reduced appetite"
+	}, {
+		"ID": 64,
+		"Name": "Sputum"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}]
+}, {
+	"56": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 12,
+		"Name": "Pain in the limbs"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}]
+}, {
+	"57": [{
+		"ID": 31,
+		"Name": "Chest tightness"
+	}, {
+		"ID": 17,
+		"Name": "Chest pain"
+	}, {
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 29,
+		"Name": "Shortness of breath"
+	}, {
+		"ID": 153,
+		"Name": "Fast, deepened breathing"
+	}, {
+		"ID": 139,
+		"Name": "Cold sweats"
+	}]
+}, {
+	"114": [{
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 153,
+		"Name": "Fast, deepened breathing"
+	}, {
+		"ID": 31,
+		"Name": "Chest tightness"
+	}, {
+		"ID": 37,
+		"Name": "Palpitations"
+	}, {
+		"ID": 238,
+		"Name": "Anxiety"
+	}, {
+		"ID": 149,
+		"Name": "Hot flushes"
+	}]
+}, {
+	"144": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}, {
+		"ID": 30,
+		"Name": "Wheezing"
+	}, {
+		"ID": 31,
+		"Name": "Chest tightness"
+	}, {
+		"ID": 124,
+		"Name": "Skin rash"
+	}]
+}, {
+	"207": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}, {
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}]
+}, {
+	"235": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 153,
+		"Name": "Fast, deepened breathing"
+	}, {
+		"ID": 31,
+		"Name": "Chest tightness"
+	}, {
+		"ID": 37,
+		"Name": "Palpitations"
+	}]
+}, {
+	"244": []
+}, {
+	"15": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}]
+}, {
+	"35": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 30,
+		"Name": "Wheezing"
+	}, {
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}, {
+		"ID": 235,
+		"Name": "Memory gap"
+	}]
+}, {
+	"40": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}, {
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 37,
+		"Name": "Palpitations"
+	}]
+}, {
+	"54": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 175,
+		"Name": "Chills"
+	}]
+}, {
+	"64": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 12,
+		"Name": "Pain in the limbs"
+	}]
+}, {
+	"101": [{
+		"ID": 9,
+		"Name": "Headache"
+	}, {
+		"ID": 10,
+		"Name": "Abdominal pain"
+	}, {
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}]
+}, {
+	"122": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 203,
+		"Name": "Pain on swallowing"
+	}, {
+		"ID": 46,
+		"Name": "Burning in the throat"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}]
+}, {
+	"133": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}, {
+		"ID": 30,
+		"Name": "Wheezing"
+	}, {
+		"ID": 124,
+		"Name": "Skin rash"
+	}, {
+		"ID": 96,
+		"Name": "Itching in the nose"
+	}]
+}, {
+	"153": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 64,
+		"Name": "Sputum"
+	}, {
+		"ID": 29,
+		"Name": "Shortness of breath"
+	}, {
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 238,
+		"Name": "Anxiety"
+	}]
+}, {
+	"181": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 203,
+		"Name": "Pain on swallowing"
+	}, {
+		"ID": 122,
+		"Name": "Hiccups"
+	}, {
+		"ID": 46,
+		"Name": "Burning in the throat"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}]
+}, {
+	"203": [{
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 122,
+		"Name": "Hiccups"
+	}]
+}, {
+	"13": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 203,
+		"Name": "Pain on swallowing"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}]
+}, {
+	"14": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 12,
+		"Name": "Pain in the limbs"
+	}, {
+		"ID": 64,
+		"Name": "Sputum"
+	}]
+}, {
+	"15": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}]
+}, {
+	"28": [{
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 12,
+		"Name": "Pain in the limbs"
+	}, {
+		"ID": 64,
+		"Name": "Sputum"
+	}]
+}, {
+	"30": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}, {
+		"ID": 124,
+		"Name": "Skin rash"
+	}, {
+		"ID": 96,
+		"Name": "Itching in the nose"
+	}]
+}, {
+	"40": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}, {
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 37,
+		"Name": "Palpitations"
+	}]
+}, {
+	"45": [{
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 203,
+		"Name": "Pain on swallowing"
+	}, {
+		"ID": 10,
+		"Name": "Abdominal pain"
+	}, {
+		"ID": 101,
+		"Name": "Vomiting"
+	}, {
+		"ID": 122,
+		"Name": "Hiccups"
+	}]
+}, {
+	"46": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}]
+}, {
+	"87": [{
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 203,
+		"Name": "Pain on swallowing"
+	}, {
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 46,
+		"Name": "Burning in the throat"
+	}]
+}, {
+	"95": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 12,
+		"Name": "Pain in the limbs"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}]
+}, {
+	"96": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}, {
+		"ID": 30,
+		"Name": "Wheezing"
+	}, {
+		"ID": 124,
+		"Name": "Skin rash"
+	}, {
+		"ID": 95,
+		"Name": "Sneezing"
+	}]
+}, {
+	"122": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 203,
+		"Name": "Pain on swallowing"
+	}, {
+		"ID": 46,
+		"Name": "Burning in the throat"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}]
+}, {
+	"133": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}, {
+		"ID": 30,
+		"Name": "Wheezing"
+	}, {
+		"ID": 124,
+		"Name": "Skin rash"
+	}, {
+		"ID": 96,
+		"Name": "Itching in the nose"
+	}]
+}, {
+	"136": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 104,
+		"Name": "Back pain"
+	}, {
+		"ID": 12,
+		"Name": "Pain in the limbs"
+	}]
+}, {
+	"153": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 64,
+		"Name": "Sputum"
+	}, {
+		"ID": 29,
+		"Name": "Shortness of breath"
+	}, {
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 238,
+		"Name": "Anxiety"
+	}]
+}, {
+	"169": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 12,
+		"Name": "Pain in the limbs"
+	}]
+}, {
+	"203": [{
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 122,
+		"Name": "Hiccups"
+	}]
+}, {
+	"115": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}, {
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 153,
+		"Name": "Fast, deepened breathing"
+	}, {
+		"ID": 31,
+		"Name": "Chest tightness"
+	}]
+}, {
+	"12": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 95,
+		"Name": "Sneezing"
+	}]
+}, {
+	"140": [{
+		"ID": 9,
+		"Name": "Headache"
+	}, {
+		"ID": 31,
+		"Name": "Chest tightness"
+	}, {
+		"ID": 12,
+		"Name": "Pain in the limbs"
+	}, {
+		"ID": 124,
+		"Name": "Skin rash"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}]
+}, {
+	"11": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 12,
+		"Name": "Pain in the limbs"
+	}, {
+		"ID": 95,
+		"Name": "Sneezing"
+	}]
+}, {
+	"12": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 95,
+		"Name": "Sneezing"
+	}]
+}, {
+	"16": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 123,
+		"Name": "Missed period"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 9,
+		"Name": "Headache"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}]
+}, {
+	"23": [{
+		"ID": 123,
+		"Name": "Missed period"
+	}, {
+		"ID": 112,
+		"Name": "Menstruation disorder"
+	}, {
+		"ID": 54,
+		"Name": "Reduced appetite"
+	}, {
+		"ID": 10,
+		"Name": "Abdominal pain"
+	}, {
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 52,
+		"Name": "Sleeplessness"
+	}]
+}, {
+	"44": [{
+		"ID": 123,
+		"Name": "Missed period"
+	}, {
+		"ID": 112,
+		"Name": "Menstruation disorder"
+	}, {
+		"ID": 9,
+		"Name": "Headache"
+	}, {
+		"ID": 64,
+		"Name": "Sputum"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}]
+}, {
+	"52": [{
+		"ID": 54,
+		"Name": "Reduced appetite"
+	}, {
+		"ID": 64,
+		"Name": "Sputum"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}]
+}, {
+	"54": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 175,
+		"Name": "Chills"
+	}]
+}, {
+	"56": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 12,
+		"Name": "Pain in the limbs"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}]
+}, {
+	"114": [{
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 153,
+		"Name": "Fast, deepened breathing"
+	}, {
+		"ID": 31,
+		"Name": "Chest tightness"
+	}, {
+		"ID": 37,
+		"Name": "Palpitations"
+	}, {
+		"ID": 238,
+		"Name": "Anxiety"
+	}, {
+		"ID": 149,
+		"Name": "Hot flushes"
+	}]
+}, {
+	"115": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}, {
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}, {
+		"ID": 153,
+		"Name": "Fast, deepened breathing"
+	}, {
+		"ID": 31,
+		"Name": "Chest tightness"
+	}]
+}, {
+	"138": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 175,
+		"Name": "Chills"
+	}, {
+		"ID": 64,
+		"Name": "Sputum"
+	}]
+}, {
+	"139": [{
+		"ID": 31,
+		"Name": "Chest tightness"
+	}, {
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 153,
+		"Name": "Fast, deepened breathing"
+	}, {
+		"ID": 17,
+		"Name": "Chest pain"
+	}, {
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 238,
+		"Name": "Anxiety"
+	}]
+}, {
+	"140": [{
+		"ID": 9,
+		"Name": "Headache"
+	}, {
+		"ID": 31,
+		"Name": "Chest tightness"
+	}, {
+		"ID": 12,
+		"Name": "Pain in the limbs"
+	}, {
+		"ID": 124,
+		"Name": "Skin rash"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}]
+}, {
+	"144": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}, {
+		"ID": 30,
+		"Name": "Wheezing"
+	}, {
+		"ID": 31,
+		"Name": "Chest tightness"
+	}, {
+		"ID": 124,
+		"Name": "Skin rash"
+	}]
+}, {
+	"149": [{
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 153,
+		"Name": "Fast, deepened breathing"
+	}, {
+		"ID": 31,
+		"Name": "Chest tightness"
+	}, {
+		"ID": 37,
+		"Name": "Palpitations"
+	}, {
+		"ID": 238,
+		"Name": "Anxiety"
+	}, {
+		"ID": 114,
+		"Name": "Nervousness"
+	}]
+}, {
+	"175": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 64,
+		"Name": "Sputum"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}]
+}, {
+	"207": [{
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}, {
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 181,
+		"Name": "Vomiting blood"
+	}]
+}, {
+	"238": [{
+		"ID": 54,
+		"Name": "Reduced appetite"
+	}, {
+		"ID": 52,
+		"Name": "Sleeplessness"
+	}, {
+		"ID": 16,
+		"Name": "Tiredness"
+	}, {
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 153,
+		"Name": "Fast, deepened breathing"
+	}, {
+		"ID": 31,
+		"Name": "Chest tightness"
+	}]
+}, {
+	"124": [{
+		"ID": 15,
+		"Name": "Cough"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 35,
+		"Name": "Lip swelling"
+	}, {
+		"ID": 30,
+		"Name": "Wheezing"
+	}, {
+		"ID": 54,
+		"Name": "Reduced appetite"
+	}, {
+		"ID": 96,
+		"Name": "Itching in the nose"
+	}]
+}, {
+	"138": [{
+		"ID": 28,
+		"Name": "Stuffy nose"
+	}, {
+		"ID": 14,
+		"Name": "Runny nose"
+	}, {
+		"ID": 13,
+		"Name": "Sore throat"
+	}, {
+		"ID": 11,
+		"Name": "Fever"
+	}, {
+		"ID": 175,
+		"Name": "Chills"
+	}, {
+		"ID": 64,
+		"Name": "Sputum"
+	}]
+}, {
+	"139": [{
+		"ID": 31,
+		"Name": "Chest tightness"
+	}, {
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 153,
+		"Name": "Fast, deepened breathing"
+	}, {
+		"ID": 17,
+		"Name": "Chest pain"
+	}, {
+		"ID": 45,
+		"Name": "Heartburn"
+	}, {
+		"ID": 238,
+		"Name": "Anxiety"
+	}]
+}, {
+	"149": [{
+		"ID": 235,
+		"Name": "Memory gap"
+	}, {
+		"ID": 153,
+		"Name": "Fast, deepened breathing"
+	}, {
+		"ID": 31,
+		"Name": "Chest tightness"
+	}, {
+		"ID": 37,
+		"Name": "Palpitations"
+	}, {
+		"ID": 238,
+		"Name": "Anxiety"
+	}, {
+		"ID": 114,
+		"Name": "Nervousness"
+	}]
+}]

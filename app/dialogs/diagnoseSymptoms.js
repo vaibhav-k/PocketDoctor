@@ -4,20 +4,20 @@ const diagnosisMale = require('../../data/diagnosisMale.json')
 const diagnosisFemale = require('../../data/diagnosisFemale.json')
 
 // const getSymptoms = require('./getSymptoms')
-let symptomsList = {}
-let arr = []
+
 module.exports = function(bot) {
     bot.dialog('/getSymptoms', [
         function (session, args, next) {
+            session.dialogData.arr = session.dialogData.arr||[]
             builder.Prompts.text(session, 'Enter your symptoms please:')
         },
         function(session, results) {
             let msg = results.response
             msg = msg.toLowerCase()
 
-            Object.keys(symptomsList).forEach((symptom) => {
+            Object.keys(session.conversationData.symptomsList).forEach((symptom) => {
                 if(msg.includes(symptom)) {
-                    arr.push(symptom)
+                    session.dialogData.arr.push(symptom)
                 }
             })
             builder.Prompts.confirm(session, 'Would you like to enter more symptoms?')
@@ -26,7 +26,7 @@ module.exports = function(bot) {
             if(results.response) {
                 session.replaceDialog('/getSymptoms', { reprompt: true })
             } else {
-                session.endDialogWithResult({response: arr})
+                session.endDialogWithResult({response: session.dialogData.arr})
             } 
         }
     ]);
@@ -38,12 +38,11 @@ module.exports = function(bot) {
         },
         function(session, results) {
             session.conversationData.sex = results.response.entity
-            symptomsList = {}
+            session.conversationData.symptomsList = {}
             symptoms.forEach((symptom)=> {
-                symptomsList[symptom["Name"].toLowerCase()] = symptom.ID
+                session.conversationData.symptomsList[symptom["Name"].toLowerCase()] = symptom.ID
             })
-            // console.log(symptomsList)
-            arr = []
+            // console.log(session.conversationData.symptomsList)
             session.beginDialog('/getSymptoms')
         },
         function(session, results) {
@@ -67,9 +66,9 @@ module.exports = function(bot) {
             }
             patientSymptoms.forEach((symptom) => {
                 session.send("Based on %s you may have the following diseases", symptom)
-                console.log('symptom = ', symptom, symptomsList[symptom])
+                console.log('symptom = ', symptom, session.conversationData.symptomsList[symptom])
                 let diseases = []
-                diagnosis[symptomsList[symptom]].forEach((disease) => {
+                diagnosis[session.conversationData.symptomsList[symptom]].forEach((disease) => {
                     diseases.push(disease.Issue.Name)
                 })
                 console.log('diseases = ', diseases)
@@ -81,7 +80,7 @@ module.exports = function(bot) {
             if(results.response) {
                 session.replaceDialog('/diagnoseSymptoms')
             } else{
-                session.endDialog()
+                session.endConversation()
             }
         },
     ])
