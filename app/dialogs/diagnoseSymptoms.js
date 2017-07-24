@@ -33,7 +33,7 @@ module.exports = function(bot) {
 
     bot.dialog('/diagnoseSymptoms', [
         function (session, args, next) {
-            session.send('This is diagnoseSymptoms')
+            //session.send('This is diagnoseSymptoms')
             builder.Prompts.choice(session, "Please choose  your gender:", "Male|Female", builder.ListStyle.button)
         },
         function(session, results) {
