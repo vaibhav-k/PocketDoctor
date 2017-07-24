@@ -78,7 +78,7 @@ module.exports = function(bot) {
             builder.Prompts.confirm(session, "Would you like to diagnose again?")
         },
         function(session, results) {
-            if(results.results) {
+            if(results.response) {
                 session.replaceDialog('/diagnoseSymptoms')
             } else{
                 session.endDialog()
