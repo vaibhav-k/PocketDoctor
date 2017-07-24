@@ -81,5 +81,19 @@ module.exports = function(bot) {
                 session.endDialog()
             }
         },
-    ]);
+    ])
+    .reloadAction(
+        "restart", "Ok. Let's start over.",
+        {
+            matches: /^start over$/i,
+            confirmPrompt: "This will start over. Are you sure?"
+        }
+    )
+    .cancelAction(
+        "cancel", "How can I help you.", 
+        {
+            matches: /^cancel$/i,
+            confirmPrompt: "This will cancel. Are you sure?"
+        }
+    )
 };
