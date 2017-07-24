@@ -1,0 +1,4 @@
+This folder contains medical data for classified by gender. 
+This data was taken from APImedic. 
+For testing of the app, a sandbox version of the API was used.
+This data is just for demonstration purposes and does not contain all the diseases.
