@@ -3,7 +3,7 @@ const bodyLocations = require('../../data/bodyLocations.json')
 const bodySubLocations = require('../../data/bodySubLocations.json')
 
 let locations = {}
-bodyLocations["BodyLocations"].forEach((location)=> {
+bodyLocations.forEach((location)=> {
     locations[location["Name"]] = location["ID"]
 })
 
