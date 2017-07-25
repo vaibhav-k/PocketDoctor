@@ -56,11 +56,11 @@ module.exports = function(bot) {
                         ask.push(proposedSymptoms.Name)
                     }) 
             })
+            builder.Prompts.text(session,'Do you also have any of the above symptoms too?')
             console.log('ask = ', ask)
             ask.forEach((symptom) => {
                 session.send(symptom)
             })
-            builder.Prompts.text(session,'Do you also have any of the above symptoms too?')
         },
         function(session, results) {
             let input = results.response.toLowerCase()
