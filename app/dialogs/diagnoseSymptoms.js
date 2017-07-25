@@ -139,14 +139,8 @@ module.exports = function(bot) {
             doctors.forEach((doctor) => {
                 session.send(doctor)
             })
-            builder.Prompts.confirm(session, "Would you like to diagnose again?")
-        },
-        function(session, results) {
-            if(results.response) {
-                session.replaceDialog('/diagnoseSymptoms')
-            } else{
                 session.send('Thanks!')
-		session.endConversation()
+                session.endConversation()
             }
         },
     ])
