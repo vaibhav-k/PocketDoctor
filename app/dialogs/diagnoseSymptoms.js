@@ -142,7 +142,7 @@ module.exports = function(bot) {
                 session.send('Thanks!')
                 session.endConversation()
             }
-        },
+        //},
     ])
     .reloadAction(
         "restart", "Ok. Let's start over.",
