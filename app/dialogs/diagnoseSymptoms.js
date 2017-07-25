@@ -10,7 +10,7 @@ module.exports = function(bot) {
     bot.dialog('/getSymptoms', [
         function (session, args, next) {
             session.dialogData.arr = session.dialogData.arr||[]
-            builder.Prompts.text(session, 'Enter your symptoms please:')
+            builder.Prompts.text(session, 'OK, now please enter your symptoms:')
         },
         function(session, results) {
             let msg = results.response
@@ -131,11 +131,11 @@ module.exports = function(bot) {
             })
             diseases = _.uniq(diseases)
             console.log('diseases = ', diseases)
-            session.send("I have prepared your diagnosis. You may have the following diseases - ")
+            session.send("**I have prepared your diagnosis. You may have the following diseases - **")
             diseases.forEach((disease) => {
                 session.send(disease)
             })
-            session.send("You should consult these doctors - ")
+            session.send("**You should consult these doctors - **")
             doctors.forEach((doctor) => {
                 session.send(doctor)
             })
