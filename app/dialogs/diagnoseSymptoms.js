@@ -56,7 +56,7 @@ module.exports = function(bot) {
                         ask.push(proposedSymptoms.Name)
                     }) 
             })
-            builder.Prompts.text(session,'Do you also have any of the above symptoms too?')
+            builder.Prompts.text(session,'Do you have any of these symptoms too?')
             console.log('ask = ', ask)
             ask.forEach((symptom) => {
                 session.send(symptom)
