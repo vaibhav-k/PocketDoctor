@@ -79,7 +79,7 @@ module.exports = function(bot) {
     bot.dialog('/diagnoseSymptoms', [
         function (session, args, next) {
             //session.send('This is diagnoseSymptoms')
-            builder.Prompts.choice(session, "And lastly, are you a male or female?", "Male|Female", builder.ListStyle.button)
+            builder.Prompts.choice(session, "Firstly, are you male or female?", "Male|Female", builder.ListStyle.button)
         },
         function(session, results) {
             session.conversationData.sex = results.response.entity
