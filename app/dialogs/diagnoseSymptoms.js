@@ -145,7 +145,8 @@ module.exports = function(bot) {
             if(results.response) {
                 session.replaceDialog('/diagnoseSymptoms')
             } else{
-                session.endConversation()
+                session.send('Thanks!')
+		session.endConversation()
             }
         },
     ])
