@@ -79,7 +79,7 @@ module.exports = function(bot) {
     bot.dialog('/diagnoseSymptoms', [
         function (session, args, next) {
             //session.send('This is diagnoseSymptoms')
-            builder.Prompts.choice(session, "Please choose  your gender:", "Male|Female", builder.ListStyle.button)
+            builder.Prompts.choice(session, "And lastly, are you a male or female?", "Male|Female", builder.ListStyle.button)
         },
         function(session, results) {
             session.conversationData.sex = results.response.entity
@@ -131,11 +131,11 @@ module.exports = function(bot) {
             })
             diseases = _.uniq(diseases)
             console.log('diseases = ', diseases)
-            session.send("**Based on this you may have the following diseases**")
+            session.send("I have prepared your diagnosis. You may have the following diseases - ")
             diseases.forEach((disease) => {
                 session.send(disease)
             })
-            session.send("**You can consult doctors of following specialization for this:**")
+            session.send("You should consult these doctors - ")
             doctors.forEach((doctor) => {
                 session.send(doctor)
             })
