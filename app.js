@@ -11,7 +11,7 @@ const dialog = {
     diagnoseSymptoms: require('./app/dialogs/diagnoseSymptoms'),
     diagnoseFullBody: require('./app/dialogs/diagnoseFullBody'),
     thankBack: require('./app/dialogs/thankBack'),
-    diseaseInfo: require('./app/dialogs/diseaseInfo'),
+    // diseaseInfo: require('./app/dialogs/diseaseInfo'),
     platformFix: require('./app/dialogs/platformFix')
 };
 
@@ -39,7 +39,7 @@ intents.matches('fixAppointment', '/fixAppointment')
 intents.matches('diagnoseSymptoms', '/diagnoseSymptoms')
 intents.matches('diagnoseFullBody', '/diagnoseFullBody')
 intents.matches('thankBack', '/thankBack')
-intents.matches('diseaseInfo', '/diseaseInfo')
+// intents.matches('diseaseInfo', '/diseaseInfo')
 intents.matches('platformFix', '/platformFix')
 
 bot.dialog('/', intents);
@@ -48,7 +48,7 @@ dialog.fixAppointment(bot);
 dialog.diagnoseSymptoms(bot);
 dialog.diagnoseFullBody(bot);
 dialog.thankBack(bot);
-dialog.diseaseInfo(bot);
+// dialog.diseaseInfo(bot);
 dialog.platformFix(bot);
 
 bot.dialog('/confused', [

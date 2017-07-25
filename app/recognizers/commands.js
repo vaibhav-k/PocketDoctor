@@ -40,10 +40,10 @@ const parse = {
         intent: 'thankBack',
         score: 1
     }),
-    diseaseInfo: () => ({
-        intent: 'diseaseInfo',
-        score: 1
-    }),
+    // diseaseInfo: () => ({
+    //     intent: 'diseaseInfo',
+    //     score: 1
+    // }),
     platformFix: () => ({
         intent: 'platformFix',
         score: 1
