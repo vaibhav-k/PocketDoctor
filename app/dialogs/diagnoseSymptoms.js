@@ -113,15 +113,31 @@ module.exports = function(bot) {
                     diagnosis[key] = symptom[key]
                 })
             }
+            let doctors = []
+            let diseases = []
             session.conversationData.patientSymptoms.forEach((symptom) => {
-                session.send("Based on %s you may have the following diseases", symptom)
                 console.log('symptom = ', symptom, session.conversationData.symptomsList[symptom])
-                let diseases = []
                 diagnosis[session.conversationData.symptomsList[symptom]].forEach((disease) => {
-                    diseases.push(disease.Issue.Name)
+                    console.log('disease = ', disease)
+                    console.log('disease isuue= ', disease.Issue.Name)
+                    diseases.push(disease.Issue.Name)  
+                    // diseases = _.union(diseases, disease.Issue.Name.toString())
+                    disease.Specialisation.forEach((d) => {
+                        console.log('d = ', d)
+                        doctors = _.union(doctors, [d.Name])
+                    })
                 })
-                console.log('diseases = ', diseases)
-                session.send(diseases)
+                // doctors = _.union(doctors, temp)
+            })
+            diseases = _.uniq(diseases)
+            console.log('diseases = ', diseases)
+            session.send("**Based on this you may have the following diseases**")
+            diseases.forEach((disease) => {
+                session.send(disease)
+            })
+            session.send("**You can consult doctors of following specialization for this:**")
+            doctors.forEach((doctor) => {
+                session.send(doctor)
             })
             builder.Prompts.confirm(session, "Would you like to diagnose again?")
         },
