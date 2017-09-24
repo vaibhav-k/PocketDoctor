@@ -1,1 +1,0 @@
-Only redflag, diagnosis and sublocationsymptoms are different

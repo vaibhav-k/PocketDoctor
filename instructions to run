@@ -1,0 +1,15 @@
+INSTRUCTION TO RUN LOCALLY
+--------------------------
+Requirements browser, active internet connection and nodejs installed on your machine
+
+1. Uncompress the file
+2. Change your directory to the folder that contains the code
+3. Now install the required packages by using
+	sudo npm install
+4. Now run the server by using the following command
+	node app.js
+   The server is now started on port 3978
+5. Now go to the browser and go to the following url localhost:3978
+6. The bot is now running locally and can be tested now.
+
+Make sure that bot can connect to LUIS. LUIS endpoint URL is specified in .env file 
